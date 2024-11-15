@@ -1,0 +1,274 @@
+[
+	{
+		"name": "spawn_respawn",
+		"fullname": "wisp_spawn_respawn",
+		"mp3": "/sounds/vo/wisp/spawn_respawn.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Spawn Iswisp|Respawn Iswisp",
+		"pretty_criteria": "Spawning|Respawning"
+	},
+	{
+		"name": "battlebegins",
+		"fullname": "wisp_battlebegins",
+		"mp3": "/sounds/vo/wisp/battlebegins.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Custom Iswisp IsGameStart|Select Iswisp|HeroChatWheel MasterTier",
+		"pretty_criteria": "As the game starts|Rare|A master hero chat wheel was used"
+	},
+	{
+		"name": "firstblood",
+		"fullname": "wisp_firstblood",
+		"mp3": "/sounds/vo/wisp/firstblood.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Kill Iswisp IsFirstBlood",
+		"pretty_criteria": "Killing a hero (First Blood)"
+	},
+	{
+		"name": "move01",
+		"fullname": "wisp_move01",
+		"mp3": "/sounds/vo/wisp/move01.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Move Iswisp",
+		"pretty_criteria": "Moving"
+	},
+	{
+		"name": "move02",
+		"fullname": "wisp_move02",
+		"mp3": "/sounds/vo/wisp/move02.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Move Iswisp",
+		"pretty_criteria": "Moving"
+	},
+	{
+		"name": "move03",
+		"fullname": "wisp_move03",
+		"mp3": "/sounds/vo/wisp/move03.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Move Iswisp",
+		"pretty_criteria": "Moving"
+	},
+	{
+		"name": "move04",
+		"fullname": "wisp_move04",
+		"mp3": "/sounds/vo/wisp/move04.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Move Iswisp",
+		"pretty_criteria": "Moving"
+	},
+	{
+		"name": "attack",
+		"fullname": "wisp_attack",
+		"mp3": "/sounds/vo/wisp/attack.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Attack Iswisp",
+		"pretty_criteria": "Attacking"
+	},
+	{
+		"name": "levelup",
+		"fullname": "wisp_levelup",
+		"mp3": "/sounds/vo/wisp/levelup.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "LevelUp Iswisp",
+		"pretty_criteria": "Leveling up"
+	},
+	{
+		"name": "kill",
+		"fullname": "wisp_kill",
+		"mp3": "/sounds/vo/wisp/kill.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Kill Iswisp",
+		"pretty_criteria": "Killing a hero"
+	},
+	{
+		"name": "ally",
+		"fullname": "wisp_ally",
+		"mp3": "/sounds/vo/wisp/ally.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "AllyNear Iswisp IsAllyEnigma EarlyGame|AllyNear Iswisp IsAllyChaos_Knight EarlyGame|AllyNear Iswisp IsAllyKeeper_of_the_Light|HeroChatWheel SilverTier",
+		"pretty_criteria": "Enigma is nearby at between 1 minute and 11 minutes in|Chaos Knight is nearby at between 1 minute and 11 minutes in|Keeper of the Light is nearby|A silver hero chat wheel was used"
+	},
+	{
+		"name": "lasthit",
+		"fullname": "wisp_lasthit",
+		"mp3": "/sounds/vo/wisp/lasthit.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "LastHit Iswisp",
+		"pretty_criteria": "Last hitting"
+	},
+	{
+		"name": "death",
+		"fullname": "wisp_death",
+		"mp3": "/sounds/vo/wisp/death.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Death Iswisp",
+		"pretty_criteria": "Dying"
+	},
+	{
+		"name": "fastres",
+		"fullname": "wisp_fastres",
+		"mp3": "/sounds/vo/wisp/fastres.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Death Iswisp IsReincarnating|HeroChatWheel GrandmasterTier",
+		"pretty_criteria": "Dying and respawning from aegis|A grandmaster hero chat wheel was used"
+	},
+	{
+		"name": "purchase_expensive",
+		"fullname": "wisp_purchase_expensive",
+		"mp3": "/sounds/vo/wisp/purchase_expensive.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Purchase Iswisp IsExpensiveItem|Purchase Iswisp IsExpensiveItem|Purchase Iswisp IsExpensiveItem",
+		"pretty_criteria": "Buying an expensive item"
+	},
+	{
+		"name": "purchase_scepter",
+		"fullname": "wisp_purchase_scepter",
+		"mp3": "/sounds/vo/wisp/purchase_scepter.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Purchase Iswisp IsUltimateScepter|Purchase Iswisp IsBlinkDagger|Bottling Iswisp",
+		"pretty_criteria": "Buying Aghanim's Scepter|Buying Blink Dagger|Bottling a rune"
+	},
+	{
+		"name": "deny",
+		"fullname": "wisp_deny",
+		"mp3": "/sounds/vo/wisp/deny.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Deny Iswisp|HeroChatWheel SilverTier",
+		"pretty_criteria": "Denying|A silver hero chat wheel was used"
+	},
+	{
+		"name": "imort",
+		"fullname": "wisp_imort",
+		"mp3": "/sounds/vo/wisp/imort.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "Immortality!",
+		"text_simple": " immortality ",
+		"criteria": "Immortality Iswisp",
+		"pretty_criteria": "Grabbing aegis"
+	},
+	{
+		"name": "all_runes_pickup",
+		"fullname": "wisp_all_runes_pickup",
+		"mp3": "/sounds/vo/wisp/all_runes_pickup.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Powerup Iswisp|Powerup Iswisp IsPowerupBounty|Powerup Iswisp IsPowerupArcane",
+		"pretty_criteria": "Activating a rune|Activating a bounty rune|Activating an arcane rune"
+	},
+	{
+		"name": "no_mana_not_yet01",
+		"fullname": "wisp_no_mana_not_yet01",
+		"mp3": "/sounds/vo/wisp/no_mana_not_yet01.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "I'm not ready.",
+		"text_simple": " im not ready ",
+		"criteria": "Cooldown Iswisp LittleNag|NoMana Iswisp LittleNag|HeroChatWheel PlatinumTier",
+		"pretty_criteria": "Item/Ability on cooldown|Not enough mana|A platinum hero chat wheel was used"
+	},
+	{
+		"name": "no_mana_not_yet02",
+		"fullname": "wisp_no_mana_not_yet02",
+		"mp3": "/sounds/vo/wisp/no_mana_not_yet02.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "I'm not ready!",
+		"text_simple": " im not ready ",
+		"criteria": "Cooldown Iswisp MediumNag|NoMana Iswisp MediumNag",
+		"pretty_criteria": "Item/Ability on cooldown (medium naggy)|Not enough mana (medium naggy)"
+	},
+	{
+		"name": "no_mana_not_yet03",
+		"fullname": "wisp_no_mana_not_yet03",
+		"mp3": "/sounds/vo/wisp/no_mana_not_yet03.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "I'm not ready!!",
+		"text_simple": " im not ready ",
+		"criteria": "Cooldown Iswisp SuperNag|NoMana Iswisp SuperNag",
+		"pretty_criteria": "Item/Ability on cooldown (very naggy)|Not enough mana (very naggy)"
+	},
+	{
+		"name": "thanks",
+		"fullname": "wisp_thanks",
+		"mp3": "/sounds/vo/wisp/thanks.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Thanks Iswisp|ItemDrop Iswisp|Select Iswisp|HeroChatWheel BronzeTier",
+		"pretty_criteria": "Thanking|Recieving a cosmetic item|Rare|A bronze hero chat wheel was used"
+	},
+	{
+		"name": "under_attack",
+		"fullname": "wisp_under_attack",
+		"mp3": "/sounds/vo/wisp/under_attack.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "I'm under attack!",
+		"text_simple": " im under attack ",
+		"criteria": "Pain Iswisp",
+		"pretty_criteria": "Taking damage"
+	},
+	{
+		"name": "inthebag",
+		"fullname": "wisp_inthebag",
+		"mp3": "/sounds/vo/wisp/inthebag.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"text": "It's in the bag!",
+		"text_simple": " its in the bag ",
+		"criteria": "InTheBag Iswisp",
+		"pretty_criteria": "In-the-bag"
+	},
+	{
+		"name": "shitty_crummy_wizard",
+		"fullname": "wisp_shitty_crummy_wizard",
+		"mp3": "/sounds/vo/wisp/shitty_crummy_wizard.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "lose",
+		"fullname": "wisp_lose",
+		"mp3": "/sounds/vo/wisp/lose.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Defeat Iswisp|HeroChatWheel GoldTier",
+		"pretty_criteria": "Losing a game|A gold hero chat wheel was used"
+	},
+	{
+		"name": "win",
+		"fullname": "wisp_win",
+		"mp3": "/sounds/vo/wisp/win.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Victory Iswisp|HeroChatWheel GoldTier",
+		"pretty_criteria": "Winning a game|A gold hero chat wheel was used"
+	},
+	{
+		"name": "laugh",
+		"fullname": "wisp_laugh",
+		"mp3": "/sounds/vo/wisp/laugh.wav",
+		"hero_id": 91,
+		"voice_id": 91,
+		"criteria": "Kill Iswisp Chance_10%|Emote Iswisp IsEmoteLaugh|HeroChatWheel BronzeTier",
+		"pretty_criteria": "Killing a hero (10% chance)|Laughing|A bronze hero chat wheel was used"
+	}
+]

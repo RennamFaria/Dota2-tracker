@@ -1,0 +1,1141 @@
+[
+	{
+		"name": "announcer_kill_double_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_01.mp3",
+		"voice_id": 10548,
+		"text": "Double kill!",
+		"text_simple": " double kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_02.mp3",
+		"voice_id": 10548,
+		"text": "A viscious double slaying.",
+		"text_simple": " a viscious double slaying ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_03.mp3",
+		"voice_id": 10548,
+		"text": "Two innocent lives taken!",
+		"text_simple": " two innocent lives taken ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_04.mp3",
+		"voice_id": 10548,
+		"text": "Two down.",
+		"text_simple": " two down ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_05.mp3",
+		"voice_id": 10548,
+		"text": "A double slaughter.",
+		"text_simple": " a double slaughter ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_06.mp3",
+		"voice_id": 10548,
+		"text": "Twice the murder!",
+		"text_simple": " twice the murder ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_07",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_07",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_07.mp3",
+		"voice_id": 10548,
+		"text": "Make that two.",
+		"text_simple": " make that two ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_double_08",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_double_08",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_double_08.mp3",
+		"voice_id": 10548,
+		"text": "Double kill.",
+		"text_simple": " double kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsDoubleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of two heroes IsMultiKillLimiter|two heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_triple_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_triple_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_triple_01.mp3",
+		"voice_id": 10548,
+		"text": "Triple kill!",
+		"text_simple": " triple kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTripleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes IsMultiKillLimiter|three heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_triple_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_triple_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_triple_02.mp3",
+		"voice_id": 10548,
+		"text": "And there's a third.",
+		"text_simple": " and theres a third ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTripleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes IsMultiKillLimiter|three heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_triple_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_triple_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_triple_03.mp3",
+		"voice_id": 10548,
+		"text": "Three innocent lives taken!",
+		"text_simple": " three innocent lives taken ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsTripleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTripleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes IsMultiKillLimiter|three heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_ultra_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_ultra_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_ultra_01.mp3",
+		"voice_id": 10548,
+		"text": "Ultra kill!",
+		"text_simple": " ultra kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuadKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of four heroes IsMultiKillLimiter|four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_ultra_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_ultra_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_ultra_02.mp3",
+		"voice_id": 10548,
+		"text": "And a fourth! GET THE LAST ONE!",
+		"text_simple": " and a fourth get the last one ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuadKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of four heroes IsMultiKillLimiter|four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_ultra_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_ultra_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_ultra_03.mp3",
+		"voice_id": 10548,
+		"text": "Four innocent lives taken!",
+		"text_simple": " four innocent lives taken ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuadKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuadKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of four heroes IsMultiKillLimiter|four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_rampage_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_rampage_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_rampage_01.mp3",
+		"voice_id": 10548,
+		"text": "Rampage!",
+		"text_simple": " rampage ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuintupleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of more than four heroes IsMultiKillLimiter|more than four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_rampage_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_rampage_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_rampage_03.mp3",
+		"voice_id": 10548,
+		"text": "Death to them all!",
+		"text_simple": " death to them all ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuintupleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of more than four heroes IsMultiKillLimiter|more than four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_rampage_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_rampage_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_rampage_04.mp3",
+		"voice_id": 10548,
+		"text": "Five innocents, driven mercilessly into the ground!",
+		"text_simple": " five innocents driven mercilessly into the ground ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsMultiKillLimiter IsQuintupleKill IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsQuintupleKill IsMultiKillLimiter IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of more than four heroes IsMultiKillLimiter|more than four heroes IsMultiKillLimiter"
+	},
+	{
+		"name": "announcer_kill_spree_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_spree_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_spree_01.mp3",
+		"voice_id": 10548,
+		"text": "Killing spree.",
+		"text_simple": " killing spree ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsThreeSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_kill_spree_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_spree_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_spree_02.mp3",
+		"voice_id": 10548,
+		"text": "More! More death!",
+		"text_simple": " more more death ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsThreeSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_kill_spree_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_spree_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_spree_03.mp3",
+		"voice_id": 10548,
+		"text": "Keep murdering!",
+		"text_simple": " keep murdering ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsThreeSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_kill_spree_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_spree_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_spree_04.mp3",
+		"voice_id": 10548,
+		"text": "Quite a spree.",
+		"text_simple": " quite a spree ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsThreeSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_kill_dominate_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_dominate_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_dominate_01.mp3",
+		"voice_id": 10548,
+		"text": "Dominating.",
+		"text_simple": " dominating ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFourSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_kill_dominate_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_dominate_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_dominate_02.mp3",
+		"voice_id": 10548,
+		"text": "A dominant performance.",
+		"text_simple": " a dominant performance ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFourSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_kill_mega_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_mega_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_mega_01.mp3",
+		"voice_id": 10548,
+		"text": "Mega kill.",
+		"text_simple": " mega kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFiveSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of five heroes|five heroes"
+	},
+	{
+		"name": "announcer_kill_mega_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_mega_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_mega_02.mp3",
+		"voice_id": 10548,
+		"text": "An acceptable amount of murder.",
+		"text_simple": " an acceptable amount of murder ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFiveSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of five heroes|five heroes"
+	},
+	{
+		"name": "announcer_kill_unstop_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_unstop_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_unstop_01.mp3",
+		"voice_id": 10548,
+		"text": "Unstoppable.",
+		"text_simple": " unstoppable ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSixSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 6 heroes|6 heroes"
+	},
+	{
+		"name": "announcer_kill_unstop_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_unstop_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_unstop_02.mp3",
+		"voice_id": 10548,
+		"text": "Whole lotta murder going on here.",
+		"text_simple": " whole lotta murder going on here ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSixSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 6 heroes|6 heroes"
+	},
+	{
+		"name": "announcer_kill_unstop_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_unstop_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_unstop_03.mp3",
+		"voice_id": 10548,
+		"text": "No really, you've got to stop this person.",
+		"text_simple": " no really youve got to stop this person ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Dire IsVictimTeam_Dire Chance_10% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_10% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 6 heroes for Radiant (10% chance)|Killing spree of 6 heroes for Dire (10% chance)"
+	},
+	{
+		"name": "announcer_kill_wicked_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wicked_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wicked_01.mp3",
+		"voice_id": 10548,
+		"text": "Wicked sick.",
+		"text_simple": " wicked sick ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSevenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 7 heroes|7 heroes"
+	},
+	{
+		"name": "announcer_kill_wicked_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wicked_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wicked_02.mp3",
+		"voice_id": 10548,
+		"text": "A quantity of murder both sick and wicked.",
+		"text_simple": " a quantity of murder both sick and wicked ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSevenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 7 heroes|7 heroes"
+	},
+	{
+		"name": "announcer_kill_monster_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_monster_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_monster_01.mp3",
+		"voice_id": 10548,
+		"text": "Monster kill.",
+		"text_simple": " monster kill ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsEightSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 8 heroes|8 heroes"
+	},
+	{
+		"name": "announcer_kill_monster_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_monster_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_monster_02.mp3",
+		"voice_id": 10548,
+		"text": "Monsters, all of you.",
+		"text_simple": " monsters all of you ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsEightSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 8 heroes|8 heroes"
+	},
+	{
+		"name": "announcer_kill_monster_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_monster_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_monster_03.mp3",
+		"voice_id": 10548,
+		"text": "You ARE still trying to stop the spree, yes?",
+		"text_simple": " you are still trying to stop the spree yes ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Dire IsVictimTeam_Dire Chance_10% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_10% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 8 heroes for Radiant (10% chance)|Killing spree of 8 heroes for Dire (10% chance)"
+	},
+	{
+		"name": "announcer_kill_godlike_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_godlike_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_godlike_01.mp3",
+		"voice_id": 10548,
+		"text": "Godlike.",
+		"text_simple": " godlike ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsNineSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 9 heroes|9 heroes"
+	},
+	{
+		"name": "announcer_kill_godlike_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_godlike_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_godlike_02.mp3",
+		"voice_id": 10548,
+		"text": "Good god.",
+		"text_simple": " good god ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsNineSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 9 heroes|9 heroes"
+	},
+	{
+		"name": "announcer_kill_godlike_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_godlike_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_godlike_03.mp3",
+		"voice_id": 10548,
+		"text": "You had better win after this.",
+		"text_simple": " you had better win after this ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Dire IsVictimTeam_Radiant Chance_10% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Radiant IsVictimTeam_Dire Chance_10% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 9 heroes for Dire (10% chance)|Killing spree of 9 heroes for Radiant (10% chance)"
+	},
+	{
+		"name": "announcer_kill_holy_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_01.mp3",
+		"voice_id": 10548,
+		"text": "Holy shit!",
+		"text_simple": " holy shit ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_02.mp3",
+		"voice_id": 10548,
+		"text": "Yes that's a whole lot of people dying.",
+		"text_simple": " yes thats a whole lot of people dying ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_03.mp3",
+		"voice_id": 10548,
+		"text": "Now this is disgusting.",
+		"text_simple": " now this is disgusting ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_04.mp3",
+		"voice_id": 10548,
+		"text": "We're now in the generic max-kill-spree dialogue!",
+		"text_simple": " were now in the generic maxkillspree dialogue ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_05.mp3",
+		"voice_id": 10548,
+		"text": "It's a spree bigger than 9, that's all I know.",
+		"text_simple": " its a spree bigger than 9 thats all i know ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_06.mp3",
+		"voice_id": 10548,
+		"text": "aaaaand we're in the rubbing-it-in phase.",
+		"text_simple": " aaaaand were in the rubbingitin phase ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_07",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_07",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_07.mp3",
+		"voice_id": 10548,
+		"text": "Yes, still killing people. Still doing it.",
+		"text_simple": " yes still killing people still doing it ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_08",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_08",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_08.mp3",
+		"voice_id": 10548,
+		"text": "I hope these skills transfer to the real world.",
+		"text_simple": " i hope these skills transfer to the real world ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_09",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_09",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_09.mp3",
+		"voice_id": 10548,
+		"text": "There's cheating going on here, I can smell it.",
+		"text_simple": " theres cheating going on here i can smell it ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_10",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_10",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_10.mp3",
+		"voice_id": 10548,
+		"text": "Skilled at Dota, the most desirable trait within the human species.",
+		"text_simple": " skilled at dota the most desirable trait within the human species ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_11",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_11",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_11.mp3",
+		"voice_id": 10548,
+		"text": "This is definitely not sociopathic behavior.",
+		"text_simple": " this is definitely not sociopathic behavior ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_12",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_12",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_12.mp3",
+		"voice_id": 10548,
+		"text": "It's just an ego thing at this point, isn't it?",
+		"text_simple": " its just an ego thing at this point isnt it ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_13",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_13",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_13.mp3",
+		"voice_id": 10548,
+		"text": "The slaughter continues!",
+		"text_simple": " the slaughter continues ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_14",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_14",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_14.mp3",
+		"voice_id": 10548,
+		"text": "When will it stop???",
+		"text_simple": " when will it stop ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_15",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_15",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_15.mp3",
+		"voice_id": 10548,
+		"text": "Will someone please stop this person? They're ruining the game!",
+		"text_simple": " will someone please stop this person theyre ruining the game ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_16",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_16",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_16.mp3",
+		"voice_id": 10548,
+		"text": "Is the game still any fun?",
+		"text_simple": " is the game still any fun ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_17",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_17",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_17.mp3",
+		"voice_id": 10548,
+		"text": "Who will stand up to this monster?",
+		"text_simple": " who will stand up to this monster ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_18",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_18",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_18.mp3",
+		"voice_id": 10548,
+		"text": "What a lesson in accepting the inevitibility of death this person is teaching us.",
+		"text_simple": " what a lesson in accepting the inevitibility of death this person is teaching us ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_19",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_19",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_19.mp3",
+		"voice_id": 10548,
+		"text": "It goes on....and on......and on....",
+		"text_simple": " it goes on and on and on ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_20",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_20",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_20.mp3",
+		"voice_id": 10548,
+		"text": "Someone's been practicing.",
+		"text_simple": " someones been practicing ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_21",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_21",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_21.mp3",
+		"voice_id": 10548,
+		"text": "How many kills is that now?",
+		"text_simple": " how many kills is that now ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_22",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_22",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_22.mp3",
+		"voice_id": 10548,
+		"text": "I think we can safely call this a spree.",
+		"text_simple": " i think we can safely call this a spree ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_23",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_23",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_23.mp3",
+		"voice_id": 10548,
+		"text": "Yep, still killing!",
+		"text_simple": " yep still killing ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_24",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_24",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_24.mp3",
+		"voice_id": 10548,
+		"text": "Stiiiiiiiiiiiiiiiiill killing!",
+		"text_simple": " stiiiiiiiiiiiiiiiiill killing ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_25",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_25",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_25.mp3",
+		"voice_id": 10548,
+		"text": "Murdering avatars in a fake sport!",
+		"text_simple": " murdering avatars in a fake sport ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_26",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_26",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_26.mp3",
+		"voice_id": 10548,
+		"text": "Many of them! Many people have died!",
+		"text_simple": " many of them many people have died ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_27",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_27",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_27.mp3",
+		"voice_id": 10548,
+		"text": "I wonder if it feels good to pwn so hard?",
+		"text_simple": " i wonder if it feels good to pwn so hard ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_28",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_28",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_28.mp3",
+		"voice_id": 10548,
+		"text": "A bunch! THAT'S how big the spree is!",
+		"text_simple": " a bunch thats how big the spree is ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_holy_29",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_holy_29",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_holy_29.mp3",
+		"voice_id": 10548,
+		"text": "Impressive.",
+		"text_simple": " impressive ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 10 heroes|10 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_15",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_15",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_15.mp3",
+		"voice_id": 10548,
+		"text": "Tremendous! 15 kills! ....bet you can't get 20.",
+		"text_simple": " tremendous 15 kills bet you cant get 20 ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFifteenSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFifteenSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFifteenSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 15 heroes|15 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_20",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_20",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_20.mp3",
+		"voice_id": 10548,
+		"text": "Oho, 20 kills? Really though, I don't impress easily below 30.",
+		"text_simple": " oho 20 kills really though i dont impress easily below 30 ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTwentySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTwentySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTwentySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 20 heroes|20 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_30",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_30",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_30.mp3",
+		"voice_id": 10548,
+		"text": "30 kills already! Hey as long as we've come this far, why not take it to 50? See you in 20 more kills!",
+		"text_simple": " 30 kills already hey as long as weve come this far why not take it to 50 see you in 20 more kills ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThirtySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsThirtySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsThirtySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 30 heroes|30 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_50",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_50",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_50.mp3",
+		"voice_id": 10548,
+		"text": "Surely you saw this coming: 100 kills! Get to 100! DO IT!!",
+		"text_simple": " surely you saw this coming 100 kills get to 100 do it ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiftySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFiftySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFiftySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 50 heroes|50 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_69",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_69",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_69.mp3",
+		"voice_id": 10548,
+		"text": "Let's be honest, you've probably rigged the game to farm for dialogue from me. Are you proud of yourself for that?",
+		"text_simple": " lets be honest youve probably rigged the game to farm for dialogue from me are you proud of yourself for that ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixtySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSixtySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSixtySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 60 heroes|60 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_70",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_70",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_70.mp3",
+		"voice_id": 10548,
+		"text": "No really, it's a thing to be ashamed of.",
+		"text_simple": " no really its a thing to be ashamed of ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSeventySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSeventySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSeventySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 70 heroes|70 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_71",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_71",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_71.mp3",
+		"voice_id": 10548,
+		"text": "I'll let it continue, but I can't undo the shame you'll feel at having cheated.",
+		"text_simple": " ill let it continue but i cant undo the shame youll feel at having cheated ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSeventyTwoSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsSeventyTwoSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsSeventyTwoSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 72 heroes|72 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_85",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_85",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_85.mp3",
+		"voice_id": 10548,
+		"text": "It must be awful having to hear the same stock dialogue over and over.",
+		"text_simple": " it must be awful having to hear the same stock dialogue over and over ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightyFivetoNinetySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTwoHundredSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsEightyFivetoNinetySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsTwoHundredSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsEightyFivetoNinetySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsTwoHundredSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 84 to 90 heroes|Killing spree of 200 heroes|84 to 90 heroes|200 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_90",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_90",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_90.mp3",
+		"voice_id": 10548,
+		"text": "Okay, I get it, the joke's over.",
+		"text_simple": " okay i get it the jokes over ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNinetySpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNinetySpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsNinetySpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 90 heroes|90 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_99",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_99",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_99.mp3",
+		"voice_id": 10548,
+		"text": "1 more to a hundred! If you mess this up now you'll really hate yourself!",
+		"text_simple": " 1 more to a hundred if you mess this up now youll really hate yourself ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNinetyNineSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsNinetyNineSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsNinetyNineSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 99 heroes|99 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_100",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_100",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_100.mp3",
+		"voice_id": 10548,
+		"text": "100 kills!!! Congratulations, but remember that the real victory comes from within. Can't you feel it? Yes, you truly must be a happier person now.",
+		"text_simple": " 100 kills congratulations but remember that the real victory comes from within cant you feel it yes you truly must be a happier person now ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsHundredSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsHundredSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsHundredSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 100 heroes|100 heroes"
+	},
+	{
+		"name": "announcer_kill_limit_101",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_limit_101",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_limit_101.mp3",
+		"voice_id": 10548,
+		"text": "No? Still no internal validation? Well, I did all I can do. Better luck next time!",
+		"text_simple": " no still no internal validation well i did all i can do better luck next time ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsOneOhTwoSpree IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsOneOhTwoSpree IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOneOhTwoSpree IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Killing spree of 102 heroes|102 heroes"
+	},
+	{
+		"name": "announcer_1stblood_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_1stblood_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_1stblood_01.mp3",
+		"voice_id": 10548,
+		"text": "First blood!",
+		"text_simple": " first blood ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFirstBlood IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "(First Blood)"
+	},
+	{
+		"name": "announcer_1stblood_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_1stblood_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_1stblood_02.mp3",
+		"voice_id": 10548,
+		"text": "More of it! More death!",
+		"text_simple": " more of it more death ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_1stblood_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_1stblood_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_1stblood_03.mp3",
+		"voice_id": 10548,
+		"text": "The killing begins!",
+		"text_simple": " the killing begins ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFirstBlood IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "(First Blood)"
+	},
+	{
+		"name": "announcer_1stblood_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_1stblood_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_1stblood_04.mp3",
+		"voice_id": 10548,
+		"text": "We have first blood!",
+		"text_simple": " we have first blood ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFirstBlood IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "(First Blood)"
+	},
+	{
+		"name": "announcer_1stblood_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_1stblood_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_1stblood_05.mp3",
+		"voice_id": 10548,
+		"text": "And the blood spills.",
+		"text_simple": " and the blood spills ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsFirstBlood IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "(First Blood)"
+	},
+	{
+		"name": "announcer_ownage_you_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_you_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_you_01.mp3",
+		"voice_id": 10548,
+		"text": "Ownage.",
+		"text_simple": " ownage ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Radiant IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Dire Chance_5% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Dire IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_5% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Dire|IsOwnageLimited Radiant (5% chance)|IsOwnageLimited Radiant|IsOwnageLimited Dire (5% chance)|IsOwnageLimited"
+	},
+	{
+		"name": "announcer_ownage_you_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_you_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_you_02.mp3",
+		"voice_id": 10548,
+		"text": "Apparently you're owning? That's just what I'm being told.",
+		"text_simple": " apparently youre owning thats just what im being told ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Radiant Chance_20% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Dire Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Dire (20% chance)|IsOwnageLimited Radiant (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_you_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_you_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_you_03.mp3",
+		"voice_id": 10548,
+		"text": "It seems you are owning. What exactly you now own, I have no idea.",
+		"text_simple": " it seems you are owning what exactly you now own i have no idea ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Radiant Chance_20% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Dire Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Dire (20% chance)|IsOwnageLimited Radiant (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_you_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_you_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_you_04.mp3",
+		"voice_id": 10548,
+		"text": "You are owning or pwning or something.",
+		"text_simple": " you are owning or pwning or something ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Radiant Chance_20% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Dire Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Dire (20% chance)|IsOwnageLimited Radiant (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_you_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_you_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_you_05.mp3",
+		"voice_id": 10548,
+		"text": "You are pwning. Is it...is it poaning? Pewning? Po- whatever.",
+		"text_simple": " you are pwning is it is it poaning pewning po whatever ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Radiant Chance_20% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Dire Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Dire (20% chance)|IsOwnageLimited Radiant (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_them_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_them_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_them_02.mp3",
+		"voice_id": 10548,
+		"text": "You are being owned.",
+		"text_simple": " you are being owned ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Dire Chance_5% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_5% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Radiant (5% chance)|IsOwnageLimited Dire (5% chance)"
+	},
+	{
+		"name": "announcer_ownage_them_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_them_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_them_03.mp3",
+		"voice_id": 10548,
+		"text": "Oh dear, you are being owned.",
+		"text_simple": " oh dear you are being owned ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Dire Chance_5% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_5% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Radiant (5% chance)|IsOwnageLimited Dire (5% chance)"
+	},
+	{
+		"name": "announcer_ownage_them_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_them_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_them_04.mp3",
+		"voice_id": 10548,
+		"text": "Hope you enjoy being owned.",
+		"text_simple": " hope you enjoy being owned ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Dire IsVictimTeam_Dire Chance_5% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Radiant IsVictimTeam_Radiant Chance_5% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited Radiant (5% chance)|IsOwnageLimited Dire (5% chance)"
+	},
+	{
+		"name": "announcer_ownage_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_02.mp3",
+		"voice_id": 10548,
+		"text": "I am informed that ownage is under way.",
+		"text_simple": " i am informed that ownage is under way ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_03.mp3",
+		"voice_id": 10548,
+		"text": "We have thus entered into a state of ownage.",
+		"text_simple": " we have thus entered into a state of ownage ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_04.mp3",
+		"voice_id": 10548,
+		"text": "A condition for ownage has been met.",
+		"text_simple": " a condition for ownage has been met ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_05.mp3",
+		"voice_id": 10548,
+		"text": "Observe: one of the teams is owning at Dota.",
+		"text_simple": " observe one of the teams is owning at dota ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited (20% chance)"
+	},
+	{
+		"name": "announcer_ownage_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_ownage_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_ownage_06.mp3",
+		"voice_id": 10548,
+		"text": "In concordance with the rules of Dota, ownage has been initiated.",
+		"text_simple": " in concordance with the rules of dota ownage has been initiated ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree IsOwnageLimited IsPlayerTeam_Spectator Chance_20% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "IsOwnageLimited (20% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_01",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_01",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_01.mp3",
+		"voice_id": 10548,
+		"text": "Team wipeout!",
+		"text_simple": " team wipeout ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator RadiantWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator DireWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Dire team was wiped (30% chance)|Radiant team was wiped (75% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_02.mp3",
+		"voice_id": 10548,
+		"text": "They're all down! Now is your chance!",
+		"text_simple": " theyre all down now is your chance ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_03.mp3",
+		"voice_id": 10548,
+		"text": "Nothing left to murder!",
+		"text_simple": " nothing left to murder ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_04.mp3",
+		"voice_id": 10548,
+		"text": "The enemy is no more.",
+		"text_simple": " the enemy is no more ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_05.mp3",
+		"voice_id": 10548,
+		"text": "Congratulations, you're making this game really unfun for the other team.",
+		"text_simple": " congratulations youre making this game really unfun for the other team ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_06.mp3",
+		"voice_id": 10548,
+		"text": "You know, it's possible that everyone on the other team is just new at Dota. Think of what an awful experience you're making this for them.",
+		"text_simple": " you know its possible that everyone on the other team is just new at dota think of what an awful experience youre making this for them ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_07",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_07",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_07.mp3",
+		"voice_id": 10548,
+		"text": "See NOW if you don't win I'm just going to be disappointed.",
+		"text_simple": " see now if you dont win im just going to be disappointed ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Radiant Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Dire Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)|Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_02.mp3",
+		"voice_id": 10548,
+		"text": "Well, don't worry, there's always future games of dota.",
+		"text_simple": " well dont worry theres always future games of dota ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_03.mp3",
+		"voice_id": 10548,
+		"text": "As per your strategy, your entire team is dead.",
+		"text_simple": " as per your strategy your entire team is dead ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_04",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_04",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_04.mp3",
+		"voice_id": 10548,
+		"text": "Congratulations! Your entire team is dead!",
+		"text_simple": " congratulations your entire team is dead ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_05.mp3",
+		"voice_id": 10548,
+		"text": "You did it! Your entire team is dead!",
+		"text_simple": " you did it your entire team is dead ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_06.mp3",
+		"voice_id": 10548,
+		"text": "I think we can all appreciate how impressive this other team is.",
+		"text_simple": " i think we can all appreciate how impressive this other team is ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_07",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_07",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_07.mp3",
+		"voice_id": 10548,
+		"text": "Incredible! Look how efficiently you all died!",
+		"text_simple": " incredible look how efficiently you all died ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_wipeout_you_08",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_wipeout_you_08",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_wipeout_you_08.mp3",
+		"voice_id": 10548,
+		"text": "Death to all of you as penance for your sins!",
+		"text_simple": " death to all of you as penance for your sins ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath DireWipe IsPlayerTeam_Dire Chance_30% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath RadiantWipe IsPlayerTeam_Radiant Chance_30% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (30% chance)|Radiant team was wiped (30% chance)"
+	},
+	{
+		"name": "announcer_kill_rampage_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_kill_rampage_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_kill_rampage_02.mp3",
+		"voice_id": 10548,
+		"text": "And that's the whole team! Goodnight everyone! DIGITAL SPORTS!",
+		"text_simple": " and thats the whole team goodnight everyone digital sports ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator RadiantWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree|Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator DireWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Radiant team was wiped (75% chance)|Dire team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_teamwipe_spectat_02",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_teamwipe_spectat_02",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_teamwipe_spectat_02.mp3",
+		"voice_id": 10548,
+		"text": "The Radiant are entirely dead! All of them!",
+		"text_simple": " the radiant are entirely dead all of them ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator RadiantWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_teamwipe_spectat_03",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_teamwipe_spectat_03",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_teamwipe_spectat_03.mp3",
+		"voice_id": 10548,
+		"text": "Death befalls Radiant's entire team.",
+		"text_simple": " death befalls radiants entire team ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator RadiantWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Radiant team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_teamwipe_spectat_05",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_teamwipe_spectat_05",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_teamwipe_spectat_05.mp3",
+		"voice_id": 10548,
+		"text": "The Dire have sadly all been slain.",
+		"text_simple": " the dire have sadly all been slain ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator DireWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)"
+	},
+	{
+		"name": "announcer_teamwipe_spectat_06",
+		"fullname": "announcer_dlc_stanleyparable_killing_spree_announcer_teamwipe_spectat_06",
+		"mp3": "/sounds/vo/announcer_dlc_stanleyparable_killing_spree/announcer_teamwipe_spectat_06.mp3",
+		"voice_id": 10548,
+		"text": "All Dire heroes have fallen.",
+		"text_simple": " all dire heroes have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stanleyparable_killing_spree HeroDeath IsSpectator DireWipe Chance_75% IsAnnouncerVoice_StanleyParableSpree",
+		"pretty_criteria": "Dire team was wiped (75% chance)"
+	}
+]

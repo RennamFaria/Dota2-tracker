@@ -1,0 +1,382 @@
+[
+	{
+		"name": "announcer_capn_killing_doublekill",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_doublekill",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_doublekill.mp3",
+		"voice_id": 10031,
+		"text": "Double kill!",
+		"text_simple": " double kill ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsDoubleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of two heroes|two heroes"
+	},
+	{
+		"name": "announcer_capn_killing_twoforone",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_twoforone",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_twoforone.mp3",
+		"voice_id": 10031,
+		"text": "Two for one!",
+		"text_simple": " two for one ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsDoubleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of two heroes|two heroes"
+	},
+	{
+		"name": "announcer_capn_killing_doubloons",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_doubloons",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_doubloons.mp3",
+		"voice_id": 10031,
+		"text": "Doubloons!",
+		"text_simple": " doubloons ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsDoubleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsDoubleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of two heroes|two heroes"
+	},
+	{
+		"name": "announcer_capn_killing_thricebenice",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_thricebenice",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_thricebenice.mp3",
+		"voice_id": 10031,
+		"text": "Thrice be nice!",
+		"text_simple": " thrice be nice ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsTripleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsTripleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsTripleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_capn_killing_triplekill",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_triplekill",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_triplekill.mp3",
+		"voice_id": 10031,
+		"text": "Triple kill!",
+		"text_simple": " triple kill ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsTripleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsTripleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsTripleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_capn_killing_ultrakill",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_ultrakill",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_ultrakill.mp3",
+		"voice_id": 10031,
+		"text": "Ultra kill!",
+		"text_simple": " ultra kill ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuadKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuadKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsQuadKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_plundered",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_plundered",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_plundered.mp3",
+		"voice_id": 10031,
+		"text": "Plundered!",
+		"text_simple": " plundered ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuadKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuadKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsQuadKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_rampage",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_rampage",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_rampage.mp3",
+		"voice_id": 10031,
+		"text": "Rampage!",
+		"text_simple": " rampage ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuintupleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuintupleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsQuintupleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of more than four heroes|more than four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_exquisite",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_exquisite",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_exquisite.mp3",
+		"voice_id": 10031,
+		"text": "Exquisite!",
+		"text_simple": " exquisite ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuintupleKill IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsQuintupleKill IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsQuintupleKill IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of more than four heroes|more than four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_killingspree",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_killingspree",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_killingspree.mp3",
+		"voice_id": 10031,
+		"text": "Killing spree!",
+		"text_simple": " killing spree ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsThreeSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsThreeSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of three heroes|three heroes"
+	},
+	{
+		"name": "announcer_capn_killing_dominating",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_dominating",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_dominating.mp3",
+		"voice_id": 10031,
+		"text": "Dominating!",
+		"text_simple": " dominating ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsFourSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_outstanding",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_outstanding",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_outstanding.mp3",
+		"voice_id": 10031,
+		"text": "Outstanding!",
+		"text_simple": " outstanding ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsFourSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_pillaging",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_pillaging",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_pillaging.mp3",
+		"voice_id": 10031,
+		"text": "Pillaging!",
+		"text_simple": " pillaging ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFourSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsFourSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of four heroes|four heroes"
+	},
+	{
+		"name": "announcer_capn_killing_megakill",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_megakill",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_megakill.mp3",
+		"voice_id": 10031,
+		"text": "Mega kill!",
+		"text_simple": " mega kill ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFiveSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsFiveSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of five heroes|five heroes"
+	},
+	{
+		"name": "announcer_capn_killing_unstoppable",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_unstoppable",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_unstoppable.mp3",
+		"voice_id": 10031,
+		"text": "Unstoppable!",
+		"text_simple": " unstoppable ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSixSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsSixSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 6 heroes|6 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_wickedsick",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_wickedsick",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_wickedsick.mp3",
+		"voice_id": 10031,
+		"text": "Wicked sick!",
+		"text_simple": " wicked sick ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsSevenSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 7 heroes|7 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_seasick",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_seasick",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_seasick.mp3",
+		"voice_id": 10031,
+		"text": "Sea sick!",
+		"text_simple": " sea sick ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsSevenSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 7 heroes|7 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_mobydick",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_mobydick",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_mobydick.mp3",
+		"voice_id": 10031,
+		"text": "Moby Dick!",
+		"text_simple": " moby dick ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsSevenSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsSevenSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 7 heroes|7 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_monsterkill",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_monsterkill",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_monsterkill.mp3",
+		"voice_id": 10031,
+		"text": "Monster kill!",
+		"text_simple": " monster kill ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsEightSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 8 heroes|8 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_piecesofeight",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_piecesofeight",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_piecesofeight.mp3",
+		"voice_id": 10031,
+		"text": "Pieces of eight!",
+		"text_simple": " pieces of eight ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsEightSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsEightSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 8 heroes|8 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_godlike",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_godlike",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_godlike.mp3",
+		"voice_id": 10031,
+		"text": "Godlike!",
+		"text_simple": " godlike ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsNineSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 9 heroes|9 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_shipwreck",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_shipwreck",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_shipwreck.mp3",
+		"voice_id": 10031,
+		"text": "Shipwreck!",
+		"text_simple": " shipwreck ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsNineSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsNineSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of 9 heroes|9 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_holyshit",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_holyshit",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_holyshit.mp3",
+		"voice_id": 10031,
+		"text": "Holy shit!",
+		"text_simple": " holy shit ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsMaxSpree IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsMaxSpree IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsMaxSpree IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Killing spree of more than 9 heroes|more than 9 heroes"
+	},
+	{
+		"name": "announcer_capn_killing_firstblood",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_firstblood",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_firstblood.mp3",
+		"voice_id": 10031,
+		"text": "First blood!",
+		"text_simple": " first blood ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsKillMessage IsFirstBlood IsPlayerTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsFirstBlood IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "(First Blood)"
+	},
+	{
+		"name": "announcer_capn_killing_yarharr",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_yarharr",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_yarharr.mp3",
+		"voice_id": 10031,
+		"text": "Yahar!",
+		"text_simple": " yahar ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree IsOwnage IsPlayerTeam_Dire IsVictimTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsOwnage IsPlayerTeam_Radiant IsVictimTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree IsOwnage IsPlayerTeam_Spectator IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "IsOwnage Dire|IsOwnage Radiant|IsOwnage"
+	},
+	{
+		"name": "announcer_capn_firstblood_drinktothat",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_firstblood_drinktothat",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_firstblood_drinktothat.mp3",
+		"voice_id": 10031,
+		"text": "I'll drink to that!",
+		"text_simple": " ill drink to that ",
+		"criteria": "Followup_Generic Isannouncer_dlc_workshop_pirate_killing_spree IsFirstBlood Chance_50% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "(First Blood) Followup (50% chance)"
+	},
+	{
+		"name": "announcer_capn_firstblood_firstofmany",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_firstblood_firstofmany",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_firstblood_firstofmany.mp3",
+		"voice_id": 10031,
+		"text": "The first of many pints!",
+		"text_simple": " the first of many pints ",
+		"criteria": "Followup_Generic Isannouncer_dlc_workshop_pirate_killing_spree IsFirstBlood Chance_50% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "(First Blood) Followup (50% chance)"
+	},
+	{
+		"name": "announcer_capn_firstblood_manymore",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_firstblood_manymore",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_firstblood_manymore.mp3",
+		"voice_id": 10031,
+		"text": "And may many more pints be spilled!",
+		"text_simple": " and may many more pints be spilled ",
+		"criteria": "Followup_Generic Isannouncer_dlc_workshop_pirate_killing_spree IsFirstBlood Chance_50% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "(First Blood) Followup (50% chance)"
+	},
+	{
+		"name": "announcer_capn_killing_blooddeck",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_blooddeck",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_blooddeck.mp3",
+		"voice_id": 10031,
+		"text": "Blood on the deck!",
+		"text_simple": " blood on the deck ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed (1% chance)"
+	},
+	{
+		"name": "announcer_capn_killing_goodboots",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_goodboots",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_goodboots.mp3",
+		"voice_id": 10031,
+		"text": "Take his boots! Good boots be hard to find.",
+		"text_simple": " take his boots good boots be hard to find ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Radiant IsVictimTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Dire IsVictimTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed by Radiant (1% chance)|A hero was killed by Dire (1% chance)"
+	},
+	{
+		"name": "announcer_capn_killing_takemoney",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_takemoney",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_takemoney.mp3",
+		"voice_id": 10031,
+		"text": "Take his money and his hat.",
+		"text_simple": " take his money and his hat ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Radiant IsVictimTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Dire IsVictimTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed by Radiant (1% chance)|A hero was killed by Dire (1% chance)"
+	},
+	{
+		"name": "announcer_capn_killing_tavern",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_killing_tavern",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_killing_tavern.mp3",
+		"voice_id": 10031,
+		"text": "Take that booty to the tavern, I say!",
+		"text_simple": " take that booty to the tavern i say ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Radiant IsVictimTeam_Dire IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsPlayerTeam_Dire IsVictimTeam_Radiant IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed by Radiant (1% chance)|A hero was killed by Dire (1% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_burial",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_burial",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_burial.mp3",
+		"voice_id": 10031,
+		"text": "We'll give ye a burial at sea.",
+		"text_simple": " well give ye a burial at sea ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed (1% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_daveyjones",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_daveyjones",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_daveyjones.mp3",
+		"voice_id": 10031,
+		"text": "Ar! Back to Davey Jones' locker with ye.",
+		"text_simple": " ar back to davey jones locker with ye ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsEnemyTidehunter IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Tidehunter was killed (1% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_marksthespot",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_marksthespot",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_marksthespot.mp3",
+		"voice_id": 10031,
+		"text": "X marks the spot. Of your grave! Ha ha!",
+		"text_simple": " x marks the spot of your grave ha ha ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsEnemyKunkka IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Kunkka was killed (1% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_nextokin",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_nextokin",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_nextokin.mp3",
+		"voice_id": 10031,
+		"text": "I'll inform the next of kin.",
+		"text_simple": " ill inform the next of kin ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "A hero was killed (1% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_shame",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_shame",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_shame.mp3",
+		"voice_id": 10031,
+		"text": "Ar. What a shame.",
+		"text_simple": " ar what a shame ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath DireWipe IsVictimTeam_Dire Chance_30% IsAnnouncerKillingSpreeVoice_Workshop_Pirate|Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath RadiantWipe IsVictimTeam_Radiant Chance_30% IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Dire team was wiped by Radiant (30% chance)|Radiant team was wiped by Dire (30% chance)"
+	},
+	{
+		"name": "announcer_capn_dying_sink",
+		"fullname": "announcer_dlc_workshop_pirate_killing_spree_announcer_capn_dying_sink",
+		"mp3": "/sounds/vo/announcer_dlc_workshop_pirate_killing_spree/announcer_capn_dying_sink.mp3",
+		"voice_id": 10031,
+		"text": "Sink to the deeps.",
+		"text_simple": " sink to the deeps ",
+		"criteria": "Custom Isannouncer_dlc_workshop_pirate_killing_spree HeroDeath Chance_1% IsEnemyTidehunter IsAnnouncerKillingSpreeVoice_Workshop_Pirate",
+		"pretty_criteria": "Tidehunter was killed (1% chance)"
+	}
+]

@@ -1,0 +1,1995 @@
+[
+	{
+		"id": 1,
+		"name": "Anti-Mage",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_antimage_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_antimage_png.png",
+		"url": "Anti-Mage/Responses",
+		"media_name": "antimage",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 1
+	},
+	{
+		"id": 2,
+		"name": "Axe",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_axe_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_axe_png.png",
+		"url": "Axe/Responses",
+		"media_name": "axe",
+		"voice_actor": "Jon St. John",
+		"hero_id": 2
+	},
+	{
+		"id": 3,
+		"name": "Bane",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_bane_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_bane_png.png",
+		"url": "Bane/Responses",
+		"media_name": "bane",
+		"voice_actor": "David Scully",
+		"hero_id": 3
+	},
+	{
+		"id": 4,
+		"name": "Bloodseeker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_bloodseeker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_bloodseeker_png.png",
+		"url": "Bloodseeker/Responses",
+		"media_name": "bloodseeker",
+		"voice_actor": "Jon St. John",
+		"hero_id": 4
+	},
+	{
+		"id": 5,
+		"name": "Crystal Maiden",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_crystal_maiden_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_crystal_maiden_png.png",
+		"url": "Crystal_Maiden/Responses",
+		"media_name": "crystalmaiden",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 5
+	},
+	{
+		"id": 6,
+		"name": "Drow Ranger",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_drow_ranger_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_drow_ranger_png.png",
+		"url": "Drow_Ranger/Responses",
+		"media_name": "drowranger",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 6
+	},
+	{
+		"id": 7,
+		"name": "Earthshaker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_earthshaker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_earthshaker_png.png",
+		"url": "Earthshaker/Responses",
+		"media_name": "earthshaker",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 7
+	},
+	{
+		"id": 8,
+		"name": "Juggernaut",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_juggernaut_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_juggernaut_png.png",
+		"url": "Juggernaut/Responses",
+		"media_name": "juggernaut",
+		"voice_actor": "David Scully",
+		"hero_id": 8
+	},
+	{
+		"id": 9,
+		"name": "Mirana",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_mirana_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_mirana_png.png",
+		"url": "Mirana/Responses",
+		"media_name": "mirana",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 9
+	},
+	{
+		"id": 10,
+		"name": "Morphling",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_morphling_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_morphling_png.png",
+		"url": "Morphling/Responses",
+		"media_name": "morphling",
+		"voice_actor": "David Scully",
+		"hero_id": 10
+	},
+	{
+		"id": 11,
+		"name": "Shadow Fiend",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_nevermore_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_nevermore_png.png",
+		"url": "Shadow_Fiend/Responses",
+		"media_name": "nevermore",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 11
+	},
+	{
+		"id": 12,
+		"name": "Phantom Lancer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_phantom_lancer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_phantom_lancer_png.png",
+		"url": "Phantom_Lancer/Responses",
+		"media_name": "phantom_lancer",
+		"voice_actor": "Barry Dennen",
+		"hero_id": 12
+	},
+	{
+		"id": 13,
+		"name": "Puck",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_puck_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_puck_png.png",
+		"url": "Puck/Responses",
+		"media_name": "puck",
+		"voice_actor": "Jen Taylor",
+		"hero_id": 13
+	},
+	{
+		"id": 14,
+		"name": "Pudge",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_pudge_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_pudge_png.png",
+		"url": "Pudge/Responses",
+		"media_name": "pudge",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 14
+	},
+	{
+		"id": 15,
+		"name": "Razor",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_razor_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_razor_png.png",
+		"url": "Razor/Responses",
+		"media_name": "razor",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 15
+	},
+	{
+		"id": 16,
+		"name": "Sand King",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_sand_king_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_sand_king_png.png",
+		"url": "Sand_King/Responses",
+		"media_name": "sandking",
+		"voice_actor": "David Scully",
+		"hero_id": 16
+	},
+	{
+		"id": 17,
+		"name": "Storm Spirit",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_storm_spirit_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_storm_spirit_png.png",
+		"url": "Storm_Spirit/Responses",
+		"media_name": "stormspirit",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 17
+	},
+	{
+		"id": 18,
+		"name": "Sven",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_sven_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_sven_png.png",
+		"url": "Sven/Responses",
+		"media_name": "sven",
+		"voice_actor": "David Scully",
+		"hero_id": 18
+	},
+	{
+		"id": 19,
+		"name": "Tiny",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_tiny_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_tiny_png.png",
+		"url": "Tiny/Responses",
+		"media_name": "tiny",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 19
+	},
+	{
+		"id": 20,
+		"name": "Vengeful Spirit",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_vengefulspirit_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_vengefulspirit_png.png",
+		"url": "Vengeful_Spirit/Responses",
+		"media_name": "vengefulspirit",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 20
+	},
+	{
+		"id": 21,
+		"name": "Windranger",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_windrunner_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_windrunner_png.png",
+		"url": "Windranger/Responses",
+		"media_name": "windrunner",
+		"voice_actor": "Jen Taylor",
+		"hero_id": 21
+	},
+	{
+		"id": 22,
+		"name": "Zeus",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_zuus_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_zuus_png.png",
+		"url": "Zeus/Responses",
+		"media_name": "zuus",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 22
+	},
+	{
+		"id": 23,
+		"name": "Kunkka",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_kunkka_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_kunkka_png.png",
+		"url": "Kunkka/Responses",
+		"media_name": "kunkka",
+		"voice_actor": "Jon St. John",
+		"hero_id": 23
+	},
+	{
+		"id": 25,
+		"name": "Lina",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_lina_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_lina_png.png",
+		"url": "Lina/Responses",
+		"media_name": "lina",
+		"voice_actor": "Jen Taylor",
+		"hero_id": 25
+	},
+	{
+		"id": 26,
+		"name": "Lion",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_lion_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_lion_png.png",
+		"url": "Lion/Responses",
+		"media_name": "lion",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 26
+	},
+	{
+		"id": 27,
+		"name": "Shadow Shaman",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_shadow_shaman_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_shadow_shaman_png.png",
+		"url": "Shadow_Shaman/Responses",
+		"media_name": "shadowshaman",
+		"voice_actor": "Gary Schwartz",
+		"hero_id": 27
+	},
+	{
+		"id": 28,
+		"name": "Slardar",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_slardar_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_slardar_png.png",
+		"url": "Slardar/Responses",
+		"media_name": "slardar",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 28
+	},
+	{
+		"id": 29,
+		"name": "Tidehunter",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_tidehunter_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_tidehunter_png.png",
+		"url": "Tidehunter/Responses",
+		"media_name": "tidehunter",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 29
+	},
+	{
+		"id": 30,
+		"name": "Witch Doctor",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_witch_doctor_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_witch_doctor_png.png",
+		"url": "Witch_Doctor/Responses",
+		"media_name": "witchdoctor",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 30
+	},
+	{
+		"id": 31,
+		"name": "Lich",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_lich_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_lich_png.png",
+		"url": "Lich/Responses",
+		"media_name": "lich",
+		"voice_actor": "Gary Schwartz",
+		"hero_id": 31
+	},
+	{
+		"id": 32,
+		"name": "Riki",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_riki_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_riki_png.png",
+		"url": "Riki/Responses",
+		"media_name": "riki",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 32
+	},
+	{
+		"id": 33,
+		"name": "Enigma",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_enigma_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_enigma_png.png",
+		"url": "Enigma/Responses",
+		"media_name": "enigma",
+		"voice_actor": "Jon St. John",
+		"hero_id": 33
+	},
+	{
+		"id": 34,
+		"name": "Tinker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_tinker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_tinker_png.png",
+		"url": "Tinker/Responses",
+		"media_name": "tinker",
+		"voice_actor": "Harry S. Robins",
+		"hero_id": 34
+	},
+	{
+		"id": 35,
+		"name": "Sniper",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_sniper_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_sniper_png.png",
+		"url": "Sniper/Responses",
+		"media_name": "sniper",
+		"voice_actor": "Gary Schwartz",
+		"hero_id": 35
+	},
+	{
+		"id": 36,
+		"name": "Necrophos",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_necrolyte_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_necrolyte_png.png",
+		"url": "Necrophos/Responses",
+		"media_name": "necrolyte",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 36
+	},
+	{
+		"id": 37,
+		"name": "Warlock",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_warlock_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_warlock_png.png",
+		"url": "Warlock/Responses",
+		"media_name": "warlock",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 37
+	},
+	{
+		"id": 38,
+		"name": "Beastmaster",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_beastmaster_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_beastmaster_png.png",
+		"url": "Beastmaster/Responses",
+		"media_name": "beastmaster",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 38
+	},
+	{
+		"id": 39,
+		"name": "Queen of Pain",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_queenofpain_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_queenofpain_png.png",
+		"url": "Queen_of_Pain/Responses",
+		"media_name": "queenofpain",
+		"voice_actor": "Linda K. Morris",
+		"hero_id": 39
+	},
+	{
+		"id": 40,
+		"name": "Venomancer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_venomancer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_venomancer_png.png",
+		"url": "Venomancer/Responses",
+		"media_name": "venomancer",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 40
+	},
+	{
+		"id": 41,
+		"name": "Faceless Void",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_faceless_void_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_faceless_void_png.png",
+		"url": "Faceless_Void/Responses",
+		"media_name": "faceless_void",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 41
+	},
+	{
+		"id": 42,
+		"name": "Wraith King",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_skeleton_king_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_skeleton_king_png.png",
+		"url": "Wraith_King/Responses",
+		"media_name": "skeleton_king",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 42
+	},
+	{
+		"id": 43,
+		"name": "Death Prophet",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_death_prophet_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_death_prophet_png.png",
+		"url": "Death_Prophet/Responses",
+		"media_name": "death_prophet",
+		"voice_actor": "Ellen McLain",
+		"hero_id": 43
+	},
+	{
+		"id": 44,
+		"name": "Phantom Assassin",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_phantom_assassin_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_phantom_assassin_png.png",
+		"url": "Phantom_Assassin/Responses",
+		"media_name": "phantom_assassin",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 44
+	},
+	{
+		"id": 45,
+		"name": "Pugna",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_pugna_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_pugna_png.png",
+		"url": "Pugna/Responses",
+		"media_name": "pugna",
+		"voice_actor": "Gary Schwartz",
+		"hero_id": 45
+	},
+	{
+		"id": 46,
+		"name": "Templar Assassin",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_templar_assassin_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_templar_assassin_png.png",
+		"url": "Templar_Assassin/Responses",
+		"media_name": "templar_assassin",
+		"voice_actor": "Linda K. Morris",
+		"hero_id": 46
+	},
+	{
+		"id": 47,
+		"name": "Viper",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_viper_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_viper_png.png",
+		"url": "Viper/Responses",
+		"media_name": "viper",
+		"voice_actor": "Tony Todd",
+		"hero_id": 47
+	},
+	{
+		"id": 48,
+		"name": "Luna",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_luna_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_luna_png.png",
+		"url": "Luna/Responses",
+		"media_name": "luna",
+		"voice_actor": "Linda K. Morris",
+		"hero_id": 48
+	},
+	{
+		"id": 49,
+		"name": "Dragon Knight",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dragon_knight_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_dragon_knight_png.png",
+		"url": "Dragon_Knight/Responses",
+		"media_name": "dragon_knight",
+		"voice_actor": "Tony Todd",
+		"hero_id": 49
+	},
+	{
+		"id": 50,
+		"name": "Dazzle",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dazzle_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_dazzle_png.png",
+		"url": "Dazzle/Responses",
+		"media_name": "dazzle",
+		"voice_actor": "David Scully",
+		"hero_id": 50
+	},
+	{
+		"id": 51,
+		"name": "Clockwerk",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_rattletrap_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_rattletrap_png.png",
+		"url": "Clockwerk/Responses",
+		"media_name": "rattletrap",
+		"voice_actor": "Sam A. Mowry",
+		"hero_id": 51
+	},
+	{
+		"id": 52,
+		"name": "Leshrac",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_leshrac_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_leshrac_png.png",
+		"url": "Leshrac/Responses",
+		"media_name": "leshrac",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 52
+	},
+	{
+		"id": 53,
+		"name": "Nature's Prophet",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_furion_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_furion_png.png",
+		"url": "Nature%27s_Prophet/Responses",
+		"media_name": "furion",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 53
+	},
+	{
+		"id": 54,
+		"name": "Lifestealer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_life_stealer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_life_stealer_png.png",
+		"url": "Lifestealer/Responses",
+		"media_name": "life_stealer",
+		"voice_actor": "Bruce Miles",
+		"hero_id": 54
+	},
+	{
+		"id": 55,
+		"name": "Dark Seer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dark_seer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_dark_seer_png.png",
+		"url": "Dark_Seer/Responses",
+		"media_name": "dark_seer",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 55
+	},
+	{
+		"id": 56,
+		"name": "Clinkz",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_clinkz_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_clinkz_png.png",
+		"url": "Clinkz/Responses",
+		"media_name": "clinkz",
+		"voice_actor": "Michael Gregory",
+		"hero_id": 56
+	},
+	{
+		"id": 57,
+		"name": "Omniknight",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_omniknight_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_omniknight_png.png",
+		"url": "Omniknight/Responses",
+		"media_name": "omniknight",
+		"voice_actor": "Bruce Miles",
+		"hero_id": 57
+	},
+	{
+		"id": 58,
+		"name": "Enchantress",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_enchantress_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_enchantress_png.png",
+		"url": "Enchantress/Responses",
+		"media_name": "enchantress",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 58
+	},
+	{
+		"id": 59,
+		"name": "Huskar",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_huskar_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_huskar_png.png",
+		"url": "Huskar/Responses",
+		"media_name": "huskar",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 59
+	},
+	{
+		"id": 60,
+		"name": "Night Stalker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_night_stalker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_night_stalker_png.png",
+		"url": "Night_Stalker/Responses",
+		"media_name": "night_stalker",
+		"voice_actor": "Tony Todd",
+		"hero_id": 60
+	},
+	{
+		"id": 61,
+		"name": "Broodmother",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_broodmother_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_broodmother_png.png",
+		"url": "Broodmother/Responses",
+		"media_name": "broodmother",
+		"voice_actor": "Ellen McLain",
+		"hero_id": 61
+	},
+	{
+		"id": 62,
+		"name": "Bounty Hunter",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_bounty_hunter_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_bounty_hunter_png.png",
+		"url": "Bounty_Hunter/Responses",
+		"media_name": "bounty_hunter",
+		"voice_actor": "Michael Gregory",
+		"hero_id": 62
+	},
+	{
+		"id": 63,
+		"name": "Weaver",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_weaver_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_weaver_png.png",
+		"url": "Weaver/Responses",
+		"media_name": "weaver",
+		"voice_actor": "David Scully",
+		"hero_id": 63
+	},
+	{
+		"id": 64,
+		"name": "Jakiro",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_jakiro_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_jakiro_png.png",
+		"url": "Jakiro/Responses",
+		"media_name": "jakiro",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 64
+	},
+	{
+		"id": 65,
+		"name": "Batrider",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_batrider_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_batrider_png.png",
+		"url": "Batrider/Responses",
+		"media_name": "batrider",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 65
+	},
+	{
+		"id": 66,
+		"name": "Chen",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_chen_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_chen_png.png",
+		"url": "Chen/Responses",
+		"media_name": "chen",
+		"voice_actor": "Eric Newsome",
+		"hero_id": 66
+	},
+	{
+		"id": 67,
+		"name": "Spectre",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_spectre_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_spectre_png.png",
+		"url": "Spectre/Responses",
+		"media_name": "spectre",
+		"voice_actor": "Gin Hammond",
+		"hero_id": 67
+	},
+	{
+		"id": 68,
+		"name": "Ancient Apparition",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ancient_apparition_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_ancient_apparition_png.png",
+		"url": "Ancient_Apparition/Responses",
+		"media_name": "ancient_apparition",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 68
+	},
+	{
+		"id": 69,
+		"name": "Doom",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_doom_bringer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_doom_bringer_png.png",
+		"url": "Doom/Responses",
+		"media_name": "doom_bringer",
+		"voice_actor": "John Patrick Lowrie",
+		"hero_id": 69
+	},
+	{
+		"id": 70,
+		"name": "Ursa",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ursa_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_ursa_png.png",
+		"url": "Ursa/Responses",
+		"media_name": "ursa",
+		"voice_actor": "Fred Tatasciore",
+		"hero_id": 70
+	},
+	{
+		"id": 71,
+		"name": "Spirit Breaker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_spirit_breaker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_spirit_breaker_png.png",
+		"url": "Spirit_Breaker/Responses",
+		"media_name": "spirit_breaker",
+		"voice_actor": "Fred Tatasciore",
+		"hero_id": 71
+	},
+	{
+		"id": 72,
+		"name": "Gyrocopter",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_gyrocopter_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_gyrocopter_png.png",
+		"url": "Gyrocopter/Responses",
+		"media_name": "gyrocopter",
+		"voice_actor": "Nolan North",
+		"hero_id": 72
+	},
+	{
+		"id": 73,
+		"name": "Alchemist",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_alchemist_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_alchemist_png.png",
+		"url": "Alchemist/Responses",
+		"media_name": "alchemist",
+		"voice_actor": "Bruce Miles",
+		"hero_id": 73
+	},
+	{
+		"id": 74,
+		"name": "Invoker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_invoker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_invoker_png.png",
+		"url": "Invoker/Responses",
+		"media_name": "invoker",
+		"voice_actor": "Dennis Bateman",
+		"hero_id": 74
+	},
+	{
+		"id": 75,
+		"name": "Silencer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_silencer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_silencer_png.png",
+		"url": "Silencer/Responses",
+		"media_name": "silencer",
+		"voice_actor": "Michael Gregory",
+		"hero_id": 75
+	},
+	{
+		"id": 76,
+		"name": "Outworld Destroyer",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_obsidian_destroyer_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_obsidian_destroyer_png.png",
+		"url": "Outworld_Destroyer/Responses",
+		"media_name": "outworld_destroyer",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 76
+	},
+	{
+		"id": 77,
+		"name": "Lycan",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_lycan_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_lycan_png.png",
+		"url": "Lycan/Responses",
+		"media_name": "lycan",
+		"voice_actor": "Nolan North",
+		"hero_id": 77
+	},
+	{
+		"id": 78,
+		"name": "Brewmaster",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_brewmaster_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_brewmaster_png.png",
+		"url": "Brewmaster/Responses",
+		"media_name": "brewmaster",
+		"voice_actor": "Nolan North",
+		"hero_id": 78
+	},
+	{
+		"id": 79,
+		"name": "Shadow Demon",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_shadow_demon_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_shadow_demon_png.png",
+		"url": "Shadow_Demon/Responses",
+		"media_name": "shadow_demon",
+		"voice_actor": "Nolan North",
+		"hero_id": 79
+	},
+	{
+		"id": 80,
+		"name": "Lone Druid",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_lone_druid_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_lone_druid_png.png",
+		"url": "Lone_Druid/Responses",
+		"media_name": "lone_druid",
+		"voice_actor": "Nolan North",
+		"hero_id": 80
+	},
+	{
+		"id": 81,
+		"name": "Chaos Knight",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_chaos_knight_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_chaos_knight_png.png",
+		"url": "Chaos_Knight/Responses",
+		"media_name": "chaos_knight",
+		"voice_actor": "Barry Dennen",
+		"hero_id": 81
+	},
+	{
+		"id": 82,
+		"name": "Meepo",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_meepo_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_meepo_png.png",
+		"url": "Meepo/Responses",
+		"media_name": "meepo",
+		"voice_actor": "Nolan North",
+		"hero_id": 82
+	},
+	{
+		"id": 83,
+		"name": "Treant Protector",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_treant_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_treant_png.png",
+		"url": "Treant_Protector/Responses",
+		"media_name": "treant",
+		"voice_actor": "Fred Tatasciore",
+		"hero_id": 83
+	},
+	{
+		"id": 84,
+		"name": "Ogre Magi",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ogre_magi_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_ogre_magi_png.png",
+		"url": "Ogre_Magi/Responses",
+		"media_name": "ogre_magi",
+		"voice_actor": "Nolan North",
+		"hero_id": 84
+	},
+	{
+		"id": 85,
+		"name": "Undying",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_undying_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_undying_png.png",
+		"url": "Undying/Responses",
+		"media_name": "undying",
+		"voice_actor": "Fred Tatasciore",
+		"hero_id": 85
+	},
+	{
+		"id": 86,
+		"name": "Rubick",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_rubick_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_rubick_png.png",
+		"url": "Rubick/Responses",
+		"media_name": "rubick",
+		"voice_actor": "Barry Dennen",
+		"hero_id": 86
+	},
+	{
+		"id": 87,
+		"name": "Disruptor",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_disruptor_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_disruptor_png.png",
+		"url": "Disruptor/Responses",
+		"media_name": "disruptor",
+		"voice_actor": "Fred Tatasciore",
+		"hero_id": 87
+	},
+	{
+		"id": 88,
+		"name": "Nyx Assassin",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_nyx_assassin_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_nyx_assassin_png.png",
+		"url": "Nyx_Assassin/Responses",
+		"media_name": "nyx_assassin",
+		"voice_actor": "Dempsey Pappion",
+		"hero_id": 88
+	},
+	{
+		"id": 89,
+		"name": "Naga Siren",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_naga_siren_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_naga_siren_png.png",
+		"url": "Naga_Siren/Responses",
+		"media_name": "naga_siren",
+		"voice_actor": "Linda K. Morris",
+		"hero_id": 89
+	},
+	{
+		"id": 90,
+		"name": "Keeper of the Light",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_keeper_of_the_light_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_keeper_of_the_light_png.png",
+		"url": "Keeper_of_the_Light/Responses",
+		"media_name": "keeper_of_the_light",
+		"voice_actor": "Nolan North",
+		"hero_id": 90
+	},
+	{
+		"id": 91,
+		"name": "Io",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_wisp_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_wisp_png.png",
+		"url": "Io/Responses",
+		"media_name": "wisp",
+		"hero_id": 91
+	},
+	{
+		"id": 92,
+		"name": "Visage",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_visage_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_visage_png.png",
+		"url": "Visage/Responses",
+		"media_name": "visage",
+		"voice_actor": "Dempsey Pappion",
+		"hero_id": 92
+	},
+	{
+		"id": 93,
+		"name": "Slark",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_slark_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_slark_png.png",
+		"url": "Slark/Responses",
+		"media_name": "slark",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 93
+	},
+	{
+		"id": 94,
+		"name": "Medusa",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_medusa_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_medusa_png.png",
+		"url": "Medusa/Responses",
+		"media_name": "medusa",
+		"voice_actor": "Jen Taylor",
+		"hero_id": 94
+	},
+	{
+		"id": 95,
+		"name": "Troll Warlord",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_troll_warlord_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_troll_warlord_png.png",
+		"url": "Troll_Warlord/Responses",
+		"media_name": "troll_warlord",
+		"voice_actor": "Nolan North",
+		"hero_id": 95
+	},
+	{
+		"id": 96,
+		"name": "Centaur Warrunner",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_centaur_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_centaur_png.png",
+		"url": "Centaur_Warrunner/Responses",
+		"media_name": "centaur",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 96
+	},
+	{
+		"id": 97,
+		"name": "Magnus",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_magnataur_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_magnataur_png.png",
+		"url": "Magnus/Responses",
+		"media_name": "magnataur",
+		"voice_actor": "Dempsey Pappion",
+		"hero_id": 97
+	},
+	{
+		"id": 98,
+		"name": "Timbersaw",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_shredder_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_shredder_png.png",
+		"url": "Timbersaw/Responses",
+		"media_name": "shredder",
+		"voice_actor": "TJ Ramini",
+		"hero_id": 98
+	},
+	{
+		"id": 99,
+		"name": "Bristleback",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_bristleback_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_bristleback_png.png",
+		"url": "Bristleback/Responses",
+		"media_name": "bristleback",
+		"voice_actor": "TJ Ramini",
+		"hero_id": 99
+	},
+	{
+		"id": 100,
+		"name": "Tusk",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_tusk_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_tusk_png.png",
+		"url": "Tusk/Responses",
+		"media_name": "tusk",
+		"voice_actor": "Tom Chantler",
+		"hero_id": 100
+	},
+	{
+		"id": 101,
+		"name": "Skywrath Mage",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_skywrath_mage_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_skywrath_mage_png.png",
+		"url": "Skywrath_Mage/Responses",
+		"media_name": "skywrath_mage",
+		"voice_actor": "TJ Ramini",
+		"hero_id": 101
+	},
+	{
+		"id": 102,
+		"name": "Abaddon",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_abaddon_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_abaddon_png.png",
+		"url": "Abaddon/Responses",
+		"media_name": "abaddon",
+		"voice_actor": "TJ Ramini",
+		"hero_id": 102
+	},
+	{
+		"id": 103,
+		"name": "Elder Titan",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_elder_titan_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_elder_titan_png.png",
+		"url": "Elder_Titan/Responses",
+		"media_name": "elder_titan",
+		"voice_actor": "Jim French",
+		"hero_id": 103
+	},
+	{
+		"id": 104,
+		"name": "Legion Commander",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_legion_commander_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_legion_commander_png.png",
+		"url": "Legion_Commander/Responses",
+		"media_name": "legion_commander",
+		"voice_actor": "Merle Dandridge",
+		"hero_id": 104
+	},
+	{
+		"id": 105,
+		"name": "Techies",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_techies_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_techies_png.png",
+		"url": "Techies/Responses",
+		"media_name": "techies",
+		"voice_actor": "Dee Bradley Baker",
+		"hero_id": 105
+	},
+	{
+		"id": 106,
+		"name": "Ember Spirit",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ember_spirit_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_ember_spirit_png.png",
+		"url": "Ember_Spirit/Responses",
+		"media_name": "ember_spirit",
+		"voice_actor": "Dave Fennoy",
+		"hero_id": 106
+	},
+	{
+		"id": 107,
+		"name": "Earth Spirit",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_earth_spirit_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_earth_spirit_png.png",
+		"url": "Earth_Spirit/Responses",
+		"media_name": "earth_spirit",
+		"voice_actor": "Nolan North",
+		"hero_id": 107
+	},
+	{
+		"id": 108,
+		"name": "Underlord",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_abyssal_underlord_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_abyssal_underlord_png.png",
+		"url": "Underlord/Responses",
+		"media_name": "abyssal_underlord",
+		"voice_actor": "TJ Ramini",
+		"hero_id": 108
+	},
+	{
+		"id": 109,
+		"name": "Terrorblade",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_terrorblade_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_terrorblade_png.png",
+		"url": "Terrorblade/Responses",
+		"media_name": "terrorblade",
+		"voice_actor": "David Sobolov",
+		"hero_id": 109
+	},
+	{
+		"id": 110,
+		"name": "Phoenix",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_phoenix_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_phoenix_png.png",
+		"url": "Phoenix/Responses",
+		"media_name": "phoenix",
+		"hero_id": 110
+	},
+	{
+		"id": 111,
+		"name": "Oracle",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_oracle_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_oracle_png.png",
+		"url": "Oracle/Responses",
+		"media_name": "oracle",
+		"voice_actor": "Mike Shapiro",
+		"hero_id": 111
+	},
+	{
+		"id": 112,
+		"name": "Winter Wyvern",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_winter_wyvern_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_winter_wyvern_png.png",
+		"url": "Winter_Wyvern/Responses",
+		"media_name": "winter_wyvern",
+		"voice_actor": "Merle Dandridge",
+		"hero_id": 112
+	},
+	{
+		"id": 113,
+		"name": "Arc Warden",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_arc_warden_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_arc_warden_png.png",
+		"url": "Arc_Warden/Responses",
+		"media_name": "arc_warden",
+		"voice_actor": "James Kirkland",
+		"hero_id": 113
+	},
+	{
+		"id": 114,
+		"name": "Monkey King",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_monkey_king_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_monkey_king_png.png",
+		"url": "Monkey_King/Responses",
+		"media_name": "monkey_king",
+		"voice_actor": "Bill Millsap",
+		"hero_id": 114
+	},
+	{
+		"id": 119,
+		"name": "Dark Willow",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dark_willow_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_dark_willow_png.png",
+		"url": "Dark_Willow/Responses",
+		"media_name": "dark_willow",
+		"voice_actor": "Ashly Burch",
+		"hero_id": 119
+	},
+	{
+		"id": 120,
+		"name": "Pangolier",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_pangolier_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_pangolier_png.png",
+		"url": "Pangolier/Responses",
+		"media_name": "pangolin",
+		"voice_actor": "Phil LaMarr",
+		"hero_id": 120
+	},
+	{
+		"id": 121,
+		"name": "Grimstroke",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_grimstroke_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_grimstroke_png.png",
+		"url": "Grimstroke/Responses",
+		"media_name": "grimstroke",
+		"voice_actor": "Steven Blum",
+		"hero_id": 121
+	},
+	{
+		"id": 123,
+		"name": "Hoodwink",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_hoodwink_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_hoodwink_png.png",
+		"url": "Hoodwink/Responses",
+		"media_name": "hoodwink",
+		"hero_id": 123
+	},
+	{
+		"id": 126,
+		"name": "Void Spirit",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_void_spirit_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_void_spirit_png.png",
+		"url": "Void_Spirit/Responses",
+		"media_name": "void_spirit",
+		"voice_actor": "Rene Mujica",
+		"hero_id": 126
+	},
+	{
+		"id": 128,
+		"name": "Snapfire",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_snapfire_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_snapfire_png.png",
+		"url": "Snapfire/Responses",
+		"media_name": "snapfire",
+		"voice_actor": "Laraine Newman",
+		"hero_id": 128
+	},
+	{
+		"id": 129,
+		"name": "Mars",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_mars_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_mars_png.png",
+		"url": "Mars/Responses",
+		"media_name": "mars",
+		"voice_actor": "Trevor Devall",
+		"hero_id": 129
+	},
+	{
+		"id": 131,
+		"name": "Ringmaster",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ringmaster_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_ringmaster_png.png",
+		"url": "Ringmaster/Responses",
+		"media_name": "ringmaster",
+		"hero_id": 131
+	},
+	{
+		"id": 135,
+		"name": "Dawnbreaker",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dawnbreaker_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_dawnbreaker_png.png",
+		"url": "Dawnbreaker/Responses",
+		"media_name": "dawnbreaker",
+		"hero_id": 135
+	},
+	{
+		"id": 136,
+		"name": "Marci",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_marci_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_marci_png.png",
+		"url": "Marci/Responses",
+		"media_name": "marci",
+		"hero_id": 136
+	},
+	{
+		"id": 137,
+		"name": "Primal Beast",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_primal_beast_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_primal_beast_png.png",
+		"url": "Primal_Beast/Responses",
+		"media_name": "primal_beast",
+		"hero_id": 137
+	},
+	{
+		"id": 138,
+		"name": "Muerta",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_muerta_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_muerta_png.png",
+		"url": "Muerta/Responses",
+		"media_name": "muerta",
+		"hero_id": 138
+	},
+	{
+		"id": 145,
+		"name": "Kez",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_kez_png.png",
+		"image": "/panorama/images/heroes/selection/npc_dota_hero_kez_png.png",
+		"url": "Kez/Responses",
+		"media_name": "kez",
+		"hero_id": 145
+	},
+	{
+		"id": 586,
+		"name": "Default Mega-Kill Announcer",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_default_megakill_png.png",
+		"url": "Announcer_responses",
+		"media_name": "announcer_killing_spree"
+	},
+	{
+		"id": 5810,
+		"name": "Blades of Voth Domosh",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_legion_commander_alt1_png.png",
+		"image": "/panorama/images/econ/items/legion_commander/demon_sword_png.png",
+		"hero_id": 104,
+		"criteria": "IsLegionEconDemon"
+	},
+	{
+		"id": 5957,
+		"name": "Fractal Horns of Inner Abysm",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_terrorblade_alt1_png.png",
+		"image": "/panorama/images/econ/heroes/terrorblade/arcana_terrorblade_png.png",
+		"hero_id": 109,
+		"criteria": "IsTerrorEconShards"
+	},
+	{
+		"id": 6914,
+		"name": "Tempest Helm of the Thundergod",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_zuus_alt1_png.png",
+		"image": "/panorama/images/econ/items/zeus/tempest_helm/zeus_arcana_png.png",
+		"url": "Tempest_Helm_of_the_Thundergod_Bundle",
+		"hero_id": 22,
+		"criteria": "IsZeusEconArcana"
+	},
+	{
+		"id": 6996,
+		"name": "Demon Eater",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_nevermore_alt1_png.png",
+		"image": "/panorama/images/econ/items/nevermore/shadowfiend_demon_eater_png.png",
+		"hero_id": 11,
+		"criteria": "IsShadowFiendEconArcana"
+	},
+	{
+		"id": 7247,
+		"name": "Manifold Paradox",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_phantom_assassin_alt1_png.png",
+		"image": "/panorama/images/econ/items/phantom_assassin/manifold_paradox/arcana_pa_png.png",
+		"url": "Manifold_Paradox_Bundle",
+		"hero_id": 44,
+		"criteria": "IsPAEconParadox"
+	},
+	{
+		"id": 7592,
+		"name": "Call of the Bladeform Legacy",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_juggernaut_alt1_png.png",
+		"image": "/panorama/images/econ/voicepack/juggernaut_arcana_voicepack_png.png",
+		"url": "Bladeform_Legacy_Bundle",
+		"hero_id": 8,
+		"criteria": "IsLegacyCall|IsJugDragMask"
+	},
+	{
+		"id": 7756,
+		"name": "Feast of Abscession",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_pudge_alt1_png.png",
+		"image": "/panorama/images/econ/items/pudge/arcana/pudge_arcana_png.png",
+		"url": "Feast_of_Abscession_Bundle",
+		"hero_id": 14,
+		"criteria": "IsPudgeChain"
+	},
+	{
+		"id": 7860,
+		"name": "Mercurial's Call",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_spectre_png.png",
+		"image": "/panorama/images/econ/items/spectre/mercurials_call_voice/mercurials_call_voice_png.png",
+		"hero_id": 67,
+		"criteria": "IsSpectreCompendium"
+	},
+	{
+		"id": 9050,
+		"name": "Great Sage's Reckoning",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_monkey_king_alt1_png.png",
+		"image": "/panorama/images/econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana_png.png",
+		"url": "Great_Sage%27s_Reckoning_Bundle",
+		"hero_id": 114,
+		"criteria": "IsMKCrown"
+	},
+	{
+		"id": 9235,
+		"name": "Benevolent Companion",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_wisp_alt_png.png",
+		"image": "/panorama/images/econ/items/io/io_ti7/io_ti7_png.png",
+		"hero_id": 91,
+		"criteria": "IsIoCompanion"
+	},
+	{
+		"id": 10008,
+		"name": "Announcer: Dr. Kleiner",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_kleiner_png.png",
+		"url": "Announcer:_Dr%2E_Kleiner",
+		"media_name": "announcer_dlc_kleiner"
+	},
+	{
+		"id": 10013,
+		"name": "Announcer: Juggernaut",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_juggernaut_png.png",
+		"url": "Juggernaut_Announcer_Pack",
+		"media_name": "announcer_dlc_juggernaut"
+	},
+	{
+		"id": 10014,
+		"name": "Mega-Kills: Juggernaut",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_juggernaut_png.png",
+		"url": "Juggernaut_Announcer_Pack",
+		"media_name": "announcer_dlc_juggernaut_killing_spree"
+	},
+	{
+		"id": 10015,
+		"name": "Announcer: Nature's Prophet",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_furion_png.png",
+		"url": "Nature%27s_Prophet_Announcer_Pack",
+		"media_name": "announcer_dlc_naturesprophet"
+	},
+	{
+		"id": 10016,
+		"name": "Mega-Kills: Nature's Prophet",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_furion_png.png",
+		"url": "Nature%27s_Prophet_Announcer_Pack",
+		"media_name": "announcer_dlc_naturesprophet_killing_spree"
+	},
+	{
+		"id": 10029,
+		"name": "Announcer: Storm Spirit",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_stormspirit_png.png",
+		"url": "Storm_Spirit_Announcer_Pack",
+		"media_name": "announcer_dlc_stormspirit"
+	},
+	{
+		"id": 10030,
+		"name": "Announcer: The Pirate Cap'n",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_workshop_pirate_png.png",
+		"url": "The_Pirate_Cap%27n_Announcer_Pack",
+		"media_name": "announcer_dlc_workshop_pirate"
+	},
+	{
+		"id": 10031,
+		"name": "Mega-Kills: The Pirate Cap'n",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_announcer_workshop_pirate_png.png",
+		"url": "The_Pirate_Cap%27n_Announcer_Pack",
+		"media_name": "announcer_dlc_workshop_pirate_killing_spree"
+	},
+	{
+		"id": 10038,
+		"name": "Mega-Kills: Storm Spirit",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_stormspirit_png.png",
+		"url": "Storm_Spirit_Announcer_Pack",
+		"media_name": "announcer_dlc_stormspirit_killing_spree"
+	},
+	{
+		"id": 10061,
+		"name": "Announcer: Axe",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_axe_png.png",
+		"url": "Axe_Announcer_Pack",
+		"media_name": "announcer_dlc_axe"
+	},
+	{
+		"id": 10062,
+		"name": "Mega-Kills: Axe",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_axe_png.png",
+		"url": "Axe_Announcer_Pack",
+		"media_name": "announcer_dlc_axe_killing_spree"
+	},
+	{
+		"id": 10131,
+		"name": "Announcer: Death Prophet",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_death_prophet_png.png",
+		"url": "Announcer:_Death_Prophet",
+		"media_name": "announcer_diretide_2012"
+	},
+	{
+		"id": 10140,
+		"name": "Announcer: Bastion",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_bastion_png.png",
+		"url": "Bastion_Announcer_Pack",
+		"media_name": "announcer_dlc_bastion"
+	},
+	{
+		"id": 10141,
+		"name": "Mega-Kills: Bastion",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_bastion_png.png",
+		"url": "Bastion_Announcer_Pack",
+		"media_name": "announcer_dlc_bastion_killing_spree"
+	},
+	{
+		"id": 10160,
+		"name": "Announcer: Tuskar",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_tuskar_png.png",
+		"url": "Announcer:_Tusk",
+		"media_name": "announcer_dlc_tusk"
+	},
+	{
+		"id": 10178,
+		"name": "Mega-Kills: Pyrion Flax",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_pflax_png.png",
+		"url": "Pyrion_Flax_Announcer_Pack",
+		"media_name": "announcer_dlc_pflax_killing_spree"
+	},
+	{
+		"id": 10185,
+		"name": "Announcer: Pyrion Flax",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_pflax_png.png",
+		"url": "Pyrion_Flax_Announcer_Pack",
+		"media_name": "announcer_dlc_pflax"
+	},
+	{
+		"id": 10307,
+		"name": "Announcer: Defense Grid",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_dgrid_png.png",
+		"url": "Defense_Grid_Announcer_Pack",
+		"media_name": "announcer_dlc_defensegrid"
+	},
+	{
+		"id": 10308,
+		"name": "Mega-Kills: Defense Grid",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_dgrid_png.png",
+		"url": "Defense_Grid_Announcer_Pack",
+		"media_name": "announcer_dlc_defensegrid_killing_spree"
+	},
+	{
+		"id": 10315,
+		"name": "Announcer: GLaDOS",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_portal_png.png",
+		"url": "Portal_Pack",
+		"media_name": "announcer_dlc_glados"
+	},
+	{
+		"id": 10316,
+		"name": "Mega-Kills: GLaDOS",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_portal_png.png",
+		"url": "Portal_Pack",
+		"media_name": "announcer_dlc_glados_killing_spree"
+	},
+	{
+		"id": 10348,
+		"name": "Announcer: Trine",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_trine_png.png",
+		"url": "Trine_Announcer_Pack",
+		"media_name": "announcer_dlc_trine"
+	},
+	{
+		"id": 10351,
+		"name": "Mega-Kills: Trine",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_trine_png.png",
+		"url": "Trine_Announcer_Pack",
+		"media_name": "announcer_dlc_trine_killing_spree"
+	},
+	{
+		"id": 10373,
+		"name": "Announcer: Lina",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_lina_png.png",
+		"url": "Lina_Announcer_Pack",
+		"media_name": "announcer_dlc_lina"
+	},
+	{
+		"id": 10387,
+		"name": "Mega-Kills: Lina",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_lina_png.png",
+		"url": "Lina_Announcer_Pack",
+		"media_name": "announcer_dlc_lina_killing_spree"
+	},
+	{
+		"id": 10457,
+		"name": "Announcer: Clockwerk",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_clockwerk_png.png",
+		"url": "Clockwerk_Announcer_Pack",
+		"media_name": "announcer_dlc_clockwerk"
+	},
+	{
+		"id": 10458,
+		"name": "Mega-Kills: Clockwerk",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_clockwerk_png.png",
+		"url": "Clockwerk_Announcer_Pack",
+		"media_name": "announcer_dlc_clockwerk_killing_spree"
+	},
+	{
+		"id": 10547,
+		"name": "Announcer: The Stanley Parable",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_stanleyparable_png.png",
+		"url": "The_Stanley_Parable_Announcer_Pack",
+		"media_name": "announcer_dlc_stanleyparable"
+	},
+	{
+		"id": 10548,
+		"name": "Mega-Kills: The Stanley Parable",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_stanleyparable_png.png",
+		"url": "The_Stanley_Parable_Announcer_Pack",
+		"media_name": "announcer_dlc_stanleyparable_killing_spree"
+	},
+	{
+		"id": 10843,
+		"name": "Announcer: Techies",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_techies_png.png",
+		"url": "Techies%27_Bombastic_Box",
+		"media_name": "announcer_dlc_techies"
+	},
+	{
+		"id": 10844,
+		"name": "Mega-Kills: Techies",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_techies_png.png",
+		"url": "Techies%27_Bombastic_Box",
+		"media_name": "announcer_dlc_techies_killing_spree"
+	},
+	{
+		"id": 11089,
+		"name": "Announcer: Deus Ex",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_deus_ex_png.png",
+		"url": "Deus_Ex_Announcer_Pack",
+		"media_name": "announcer_dlc_deus_ex"
+	},
+	{
+		"id": 11144,
+		"name": "Mega-Kills: Rick and Morty",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_rickmorty_png.png",
+		"url": "Rick_and_Morty_Announcer_Pack",
+		"media_name": "announcer_dlc_rick_and_morty_killing_spree"
+	},
+	{
+		"id": 11145,
+		"name": "Announcer: Rick and Morty",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_rickmorty_png.png",
+		"url": "Rick_and_Morty_Announcer_Pack",
+		"media_name": "announcer_dlc_rick_and_morty"
+	},
+	{
+		"id": 11173,
+		"name": "Default Announcer",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_default_png.png",
+		"url": "Announcer_responses",
+		"media_name": "announcer"
+	},
+	{
+		"id": 11279,
+		"name": "Announcer: Bristleback",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_bristleback_png.png",
+		"url": "Bristleback_Announcer_Pack",
+		"media_name": "announcer_dlc_bristleback"
+	},
+	{
+		"id": 11280,
+		"name": "Mega-Kills: Bristleback",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_bristleback_png.png",
+		"url": "Bristleback_Announcer_Pack",
+		"media_name": "announcer_dlc_bristleback_killing_spree"
+	},
+	{
+		"id": 11385,
+		"name": "Mega-Kills: Crystal Maiden",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_crystal_maiden_megakill_png.png",
+		"url": "Crystal_Maiden_Announcer_Pack",
+		"media_name": "announcer_dlc_crystal_maiden_killing_spree"
+	},
+	{
+		"id": 11463,
+		"name": "Announcer: Crystal Maiden",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_crystal_maiden_png.png",
+		"url": "Crystal_Maiden_Announcer_Pack",
+		"media_name": "announcer_dlc_crystal_maiden"
+	},
+	{
+		"id": 11486,
+		"name": "Announcer: Monkey King",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_monkey_king_png.png",
+		"url": "Monkey_King_Announcer_Pack",
+		"media_name": "announcer_dlc_monkey_king"
+	},
+	{
+		"id": 11494,
+		"name": "Mega-Kills: Monkey King",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_monkey_king_megakill_png.png",
+		"url": "Monkey_King_Announcer_Pack",
+		"media_name": "announcer_dlc_monkey_king_killing_spree"
+	},
+	{
+		"id": 11736,
+		"name": "Announcer: Fallout 4",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_fallout4_png.png",
+		"url": "Fallout_4_Announcer_Pack",
+		"media_name": "announcer_dlc_fallout4"
+	},
+	{
+		"id": 11737,
+		"name": "Mega-Kills: Fallout 4",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_fallout4_png.png",
+		"url": "Fallout_4_Announcer_Pack",
+		"media_name": "announcer_dlc_fallout4_killing_spree"
+	},
+	{
+		"id": 11869,
+		"name": "Mega-Kills: Deus Ex",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_deus_ex_megakill_png.png",
+		"url": "Deus_Ex_Announcer_Pack",
+		"media_name": "announcer_dlc_deus_ex_killing_spree"
+	},
+	{
+		"id": 12001,
+		"name": "Announcer: Kunkka & Tidehunter",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_kunkka_tide_png.png",
+		"url": "Kunkka_%26_Tidehunter_Announcer_Pack",
+		"media_name": "announcer_dlc_kunkka_tide"
+	},
+	{
+		"id": 12008,
+		"name": "Mega-Kills: Kunkka & Tidehunter",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_kunkka_tide_megakill_png.png",
+		"url": "Kunkka_%26_Tidehunter_Announcer_Pack",
+		"media_name": "announcer_dlc_kunkka_tide_killing_spree"
+	},
+	{
+		"id": 12315,
+		"name": "Announcer: Meepo",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_meepo_png.png",
+		"url": "Meepo_Announcer_Pack",
+		"media_name": "announcer_dlc_meepo"
+	},
+	{
+		"id": 12316,
+		"name": "Mega-Kills: Meepo",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_meepo_png.png",
+		"url": "Meepo_Announcer_Pack",
+		"media_name": "announcer_dlc_meepo_killing_spree"
+	},
+	{
+		"id": 12425,
+		"name": "Mega-Kills: Gabe Newell",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_gaben_megakill_png.png",
+		"url": "Mega-Kills:_Gabe_Newell",
+		"media_name": "announcer_dlc_gaben_killing_spree"
+	},
+	{
+		"id": 12427,
+		"name": "Voice of the Magus Cypher",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_rubick_alt_png.png",
+		"image": "/panorama/images/econ/voicepack/rubick_arcana_voicepack_png.png",
+		"url": "The_Magus_Cypher_Bundle",
+		"hero_id": 86,
+		"criteria": "IsRubArcana"
+	},
+	{
+		"id": 12536,
+		"name": "Voice of Flockheart's Gamble",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_ogre_magi_alt1_png.png",
+		"image": "/panorama/images/econ/voicepack/ogre_magi_arcana_voicepack_png.png",
+		"url": "Flockheart%27s_Gamble_Bundle",
+		"hero_id": 84,
+		"criteria": "IsSmartestOgre"
+	},
+	{
+		"id": 12586,
+		"name": "Announcer: Darkest Dungeon (ft. Wayne June)",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_darkest_dungeon_png.png",
+		"url": "Darkest_Dungeon_Announcer_Pack_(ft%2E_Wayne_June)",
+		"media_name": "announcer_dlc_darkest_dungeon"
+	},
+	{
+		"id": 12587,
+		"name": "Mega-Kills: Darkest Dungeon (ft. Wayne June)",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_darkest_dungeon_megakill_png.png",
+		"url": "Darkest_Dungeon_Announcer_Pack_(ft%2E_Wayne_June)",
+		"media_name": "announcer_dlc_darkest_dungeon_killing_spree"
+	},
+	{
+		"id": 12692,
+		"name": "Planetfall",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_earthshaker_alt2_png.png",
+		"image": "/panorama/images/econ/items/earthshaker/arcana/earthshaker_arcana_png.png",
+		"hero_id": 7,
+		"criteria": "IsEarthCosmos"
+	},
+	{
+		"id": 12930,
+		"name": "Eminence of Ristul",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_queenofpain_alt2_png.png",
+		"image": "/panorama/images/econ/items/queenofpain/queenofpain_arcana/queenofpain_arcana_png.png",
+		"url": "The_Eminence_of_Ristul_Bundle",
+		"hero_id": 39,
+		"criteria": "IsRistulArc"
+	},
+	{
+		"id": 12964,
+		"name": "Fists of Axe Unleashed",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_axe_png.png",
+		"image": "/panorama/images/econ/items/axe/ti9_jungle_axe/ti9_jungle_axe_weapon_png.png",
+		"url": "Axe_Unleashed",
+		"hero_id": 2,
+		"criteria": "IsJungleAxe"
+	},
+	{
+		"id": 13231,
+		"name": "Announcer: Dark Willow",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_darkwillow_png.png",
+		"url": "Dark_Willow_Announcer_Pack",
+		"media_name": "announcer_dlc_dark_willow"
+	},
+	{
+		"id": 13232,
+		"name": "Mega-Kills: Dark Willow",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_darkwillow_megakill_png.png",
+		"url": "Dark_Willow_Announcer_Pack",
+		"media_name": "announcer_dlc_dark_willow_killing_spree"
+	},
+	{
+		"id": 13456,
+		"name": "Crown of the One True King",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_skeleton_king_alt1_png.png",
+		"image": "/panorama/images/econ/items/wraith_king/arcana/wraith_king_arcana_head_png.png",
+		"url": "King_Kringle",
+		"hero_id": 42,
+		"criteria": "IsWKskel"
+	},
+	{
+		"id": 13783,
+		"name": "The Disciple's Path",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_antimage_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/antimage_female/antimage_female_png.png",
+		"url": "Turstarkuri_Pilgrim",
+		"hero_id": 1,
+		"criteria": "IsPersonaWei"
+	},
+	{
+		"id": 13786,
+		"name": "The Toy Butcher",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_pudge_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/pudge_cute/pudge_cute_png.png",
+		"url": "Frosty_the_Sew-Man",
+		"hero_id": 14,
+		"criteria": "IsPudgeToy"
+	},
+	{
+		"id": 13806,
+		"name": "Compass of the Rising Gale",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_windrunner_alt2_png.png",
+		"image": "/panorama/images/econ/items/windrunner/windrunner_arcana/wr_arcana_head_png.png",
+		"url": "Compass_of_the_Rising_Gale_Bundle",
+		"hero_id": 21,
+		"criteria": "IsWindArc"
+	},
+	{
+		"id": 14968,
+		"name": "Helm of the Ardalan Interdictor",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_sniper_png.png",
+		"image": "/panorama/images/econ/items/sniper/scifi_sniper_test_head/scifi_sniper_test_head_png.png",
+		"url": "Tales_of_the_Ardalan_Interdictor",
+		"hero_id": 35,
+		"criteria": "IsHelmetVoice"
+	},
+	{
+		"id": 14996,
+		"name": "Announcer: Voice of The International",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/announcer_ti10_png.png",
+		"url": "Voice_of_The_International_Announcer_Pack",
+		"media_name": "announcer_dlc_ti10_vog"
+	},
+	{
+		"id": 14997,
+		"name": "Mega-Kills: Voice of The International",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_ti10_png.png",
+		"url": "Voice_of_The_International_Announcer_Pack",
+		"media_name": "announcer_dlc_ti10_vog_killing_spree"
+	},
+	{
+		"id": 18033,
+		"name": "Claszian Apostasy Head",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_faceless_void_alt2_png.png",
+		"image": "/panorama/images/econ/items/faceless_void/faceless_void_arcana/faceless_void_arcana_png.png",
+		"url": "Claszian_Apostasy",
+		"hero_id": 41,
+		"criteria": "IsVoidClasz"
+	},
+	{
+		"id": 18113,
+		"name": "Davion of Dragon Hold",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_dragon_knight_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/dragon_knight_persona/dk_persona_base_png.png",
+		"hero_id": 49,
+		"criteria": "IsDavionDH|IsDavionDH"
+	},
+	{
+		"id": 18178,
+		"name": "Mirana of Nightsilver",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_mirana_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/mirana_persona/mirana_persona_base_png.png",
+		"url": "10th_Anniversary_Mirana_Persona_Bundle",
+		"hero_id": 9,
+		"criteria": "IsMirNFX|IsMirNFX"
+	},
+	{
+		"id": 18381,
+		"name": "Mega-Kills: Diretide",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/megakill_diretide20_png.png",
+		"url": "Mega-Kills:_Diretide",
+		"media_name": "announcer_dlc_diretide2020_killing_spree"
+	},
+	{
+		"id": 18539,
+		"name": "The Devotions of Dragonus - Wings",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_skywrath_mage_alt2_png.png",
+		"image": "/panorama/images/econ/items/skywrath_mage/skywrath_arcana/skywrath_arcana_npc_dota_hero_skywrath_mage_png.png",
+		"url": "Crownfall:_The_Devotions_of_Dragonus",
+		"hero_id": 101
+	},
+	{
+		"id": 18750,
+		"name": "Phantom Advent - Voice",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_spectre_alt1_png.png",
+		"image": "/panorama/images/econ/items/spectre/spectre_arcana/spectre_arcana_voice_png.png",
+		"url": "Phantom_Advent_Bundle",
+		"hero_id": 67,
+		"criteria": "IsSpecArcana"
+	},
+	{
+		"id": 19022,
+		"name": "The Good Old Days",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_invoker_persona1_png.png",
+		"image": "/panorama/images/econ/items/invoker_kid/good_old_days/invoker_kid_good_old_days_voice_png.png",
+		"url": "Magus_Mimicry",
+		"hero_id": 74,
+		"criteria": "IsKidvokerHappy"
+	},
+	{
+		"id": 19090,
+		"name": "Dread Retribution",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_drow_ranger_alt2_png.png",
+		"image": "/panorama/images/econ/items/drow/dread_retribution/drow_arcana_weapon_png.png",
+		"url": "Dread_Retribution_Bundle",
+		"hero_id": 6,
+		"criteria": "IsDrowMad"
+	},
+	{
+		"id": 19205,
+		"name": "Conduit of the Blueheart",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_crystal_maiden_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/crystal_maiden_persona/crystal_maiden_persona_npc_dota_hero_crystal_maiden_png.png",
+		"url": "Canis_Crystallum",
+		"hero_id": 5,
+		"criteria": "IsIceWolf"
+	},
+	{
+		"id": 22718,
+		"name": "The Resurrection of Shen - Wings",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_vengefulspirit_alt3_png.png",
+		"image": "/panorama/images/econ/items/vengefulspirit/vengeful_spirit_arcana/vengeful_spirit_arcana_shoulders_png.png",
+		"url": "Crownfall:_The_Resurrection_of_Shen",
+		"hero_id": 20
+	},
+	{
+		"id": 22723,
+		"name": "Exile Unveiled",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_phantom_assassin_persona1_png.png",
+		"image": "/panorama/images/econ/heroes/phantom_assassin_persona/phantom_assassin_persona_png.png",
+		"url": "Phantom%27s_Facade",
+		"hero_id": 44,
+		"criteria": "IsAsanPA|IsAsanPA"
+	},
+	{
+		"id": 23095,
+		"name": "Voidstorm Asylum Tormentor",
+		"icon": "/panorama/images/heroes/icons/npc_dota_hero_razor_alt2_png.png",
+		"image": "/panorama/images/econ/items/razor/razor_arcana/razor_arcana_weapon_png.png",
+		"url": "Voidstorm_Asylum",
+		"hero_id": 15,
+		"criteria": "IsRazorVSA"
+	},
+	{
+		"id": 24911,
+		"name": "Announcer: Cave Johnson",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/cave_johnson_ti11_png.png",
+		"url": "Cave_Johnson_Announcer_Pack",
+		"media_name": "announcer_dlc_cavej"
+	},
+	{
+		"id": 24912,
+		"name": "Mega-Kills: Cave Johnson",
+		"icon": "/panorama/images/icon_announcer_psd.png",
+		"image": "/panorama/images/econ/announcer/cave_johnson_ti11_megakill_png.png",
+		"url": "Cave_Johnson_Announcer_Pack",
+		"media_name": "announcer_dlc_cavej_killing_spree"
+	}
+]

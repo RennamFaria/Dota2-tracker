@@ -1,0 +1,2884 @@
+[
+	{
+		"name": "announcer_welcome_01",
+		"fullname": "announcer_dlc_axe_announcer_welcome_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_welcome_01.mp3",
+		"voice_id": 10061,
+		"text": "Welcome to Dota!",
+		"text_simple": " welcome to dota ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_choose_hero",
+		"fullname": "announcer_dlc_axe_announcer_choose_hero",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_choose_hero.mp3",
+		"voice_id": 10061,
+		"text": "Choose your hero.",
+		"text_simple": " choose your hero ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsSelectHero|Custom Isannouncer_dlc_axe IsMidOnly IsAnnouncerVoice_Axe|Custom Isannouncer_dlc_axe IsLeastPlayed IsAnnouncerVoice_Axe|Custom Isannouncer_dlc_axe IsLimitedHeroes IsAnnouncerVoice_Axe|Custom Isannouncer_dlc_axe IsCustomMode IsAnnouncerVoice_Axe|Custom Isannouncer_dlc_axe IsOneVsOne IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsSelectHero|IsMidOnly|IsLeastPlayed|IsLimitedHeroes|IsCustomMode|IsOneVsOne"
+	},
+	{
+		"name": "announcer_pick_yr",
+		"fullname": "announcer_dlc_axe_announcer_pick_yr",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_pick_yr.mp3",
+		"voice_id": 10061,
+		"text": "Your turn to pick.",
+		"text_simple": " your turn to pick ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsPickYour",
+		"pretty_criteria": "IsPickYour"
+	},
+	{
+		"name": "announcer_pick_enm",
+		"fullname": "announcer_dlc_axe_announcer_pick_enm",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_pick_enm.mp3",
+		"voice_id": 10061,
+		"text": "Enemy's turn to pick.",
+		"text_simple": " enemys turn to pick ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsPlayerTeam_Radiant IsPickDire|Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsPlayerTeam_Dire IsPickRadiant",
+		"pretty_criteria": "IsPickDire|IsPickRadiant"
+	},
+	{
+		"name": "announcer_pick_dire",
+		"fullname": "announcer_dlc_axe_announcer_pick_dire",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_pick_dire.mp3",
+		"voice_id": 10061,
+		"text": "Dire team pick.",
+		"text_simple": " dire team pick ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsPickDire IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsPickDire"
+	},
+	{
+		"name": "announcer_pick_rad",
+		"fullname": "announcer_dlc_axe_announcer_pick_rad",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_pick_rad.mp3",
+		"voice_id": 10061,
+		"text": "Radiant team pick.",
+		"text_simple": " radiant team pick ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsPickRadiant IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsPickRadiant"
+	},
+	{
+		"name": "announcer_ban_yr",
+		"fullname": "announcer_dlc_axe_announcer_ban_yr",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ban_yr.mp3",
+		"voice_id": 10061,
+		"text": "Your turn to ban.",
+		"text_simple": " your turn to ban ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsBanYour",
+		"pretty_criteria": "IsBanYour"
+	},
+	{
+		"name": "announcer_ban_enm",
+		"fullname": "announcer_dlc_axe_announcer_ban_enm",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ban_enm.mp3",
+		"voice_id": 10061,
+		"text": "Enemy's turn to ban.",
+		"text_simple": " enemys turn to ban ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsBanDire IsPlayerTeam_Radiant|Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsBanRadiant IsPlayerTeam_Dire",
+		"pretty_criteria": "IsBanDire|IsBanRadiant"
+	},
+	{
+		"name": "announcer_ban_dire",
+		"fullname": "announcer_dlc_axe_announcer_ban_dire",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ban_dire.mp3",
+		"voice_id": 10061,
+		"text": "Dire team ban.",
+		"text_simple": " dire team ban ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsBanDire IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsBanDire"
+	},
+	{
+		"name": "announcer_ban_rad",
+		"fullname": "announcer_dlc_axe_announcer_ban_rad",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ban_rad.mp3",
+		"voice_id": 10061,
+		"text": "Radiant team ban.",
+		"text_simple": " radiant team ban ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsBanRadiant IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsBanRadiant"
+	},
+	{
+		"name": "announcer_team_complete_rad",
+		"fullname": "announcer_dlc_axe_announcer_team_complete_rad",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_team_complete_rad.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's team is complete.",
+		"text_simple": " radiants team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_team_complete_yr",
+		"fullname": "announcer_dlc_axe_announcer_team_complete_yr",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_team_complete_yr.mp3",
+		"voice_id": 10061,
+		"text": "Your team is complete.",
+		"text_simple": " your team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_team_complete_dire",
+		"fullname": "announcer_dlc_axe_announcer_team_complete_dire",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_team_complete_dire.mp3",
+		"voice_id": 10061,
+		"text": "Dire's team is complete.",
+		"text_simple": " dires team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_count_pick_10",
+		"fullname": "announcer_dlc_axe_announcer_count_pick_10",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_count_pick_10.mp3",
+		"voice_id": 10061,
+		"text": "Ten seconds remaining.",
+		"text_simple": " ten seconds remaining ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe Is10SecToPick|Custom Isannouncer_dlc_axe IsTenSecondsRemaining IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Is10SecToPick|IsTenSecondsRemaining"
+	},
+	{
+		"name": "announcer_count_pick_5",
+		"fullname": "announcer_dlc_axe_announcer_count_pick_5",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_count_pick_5.mp3",
+		"voice_id": 10061,
+		"text": "Five seconds remaining.",
+		"text_simple": " five seconds remaining ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe Is5SecToPick|Custom Isannouncer_dlc_axe IsFiveSecondsRemaining IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Is5SecToPick|IsFiveSecondsRemaining"
+	},
+	{
+		"name": "announcer_time_reserve",
+		"fullname": "announcer_dlc_axe_announcer_time_reserve",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_time_reserve.mp3",
+		"voice_id": 10061,
+		"text": "Reserve time.",
+		"text_simple": " reserve time ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnouncerVoice_Axe IsReserveTime",
+		"pretty_criteria": "IsReserveTime"
+	},
+	{
+		"name": "announcer_count_battle_30",
+		"fullname": "announcer_dlc_axe_announcer_count_battle_30",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_count_battle_30.mp3",
+		"voice_id": 10061,
+		"text": "Thirty seconds to battle.",
+		"text_simple": " thirty seconds to battle ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGameStarting30 IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGameStarting30"
+	},
+	{
+		"name": "announcer_count_battle_10",
+		"fullname": "announcer_dlc_axe_announcer_count_battle_10",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_count_battle_10.mp3",
+		"voice_id": 10061,
+		"text": "Ten seconds to battle.",
+		"text_simple": " ten seconds to battle ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGameStarting10 IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGameStarting10"
+	},
+	{
+		"name": "announcer_battle_prepare_01",
+		"fullname": "announcer_dlc_axe_announcer_battle_prepare_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_battle_prepare_01.mp3",
+		"voice_id": 10061,
+		"text": "Prepare for battle!",
+		"text_simple": " prepare for battle ",
+		"criteria": "Custom Isannouncer_dlc_axe IsPrepStart IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsPrepStart"
+	},
+	{
+		"name": "announcer_battle_pregame_idle_01",
+		"fullname": "announcer_dlc_axe_announcer_battle_pregame_idle_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_battle_pregame_idle_01.mp3",
+		"voice_id": 10061,
+		"text": "If you want peace, you must prepare for war. If you want war, you must also prepare for war. The lesson is: always prepare for war.",
+		"text_simple": " if you want peace you must prepare for war if you want war you must also prepare for war the lesson is always prepare for war ",
+		"criteria": "Followup_Generic Isannouncer_dlc_axe IsPrepStart Chance_5% IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsPrepStart Followup (5% chance)"
+	},
+	{
+		"name": "announcer_battle_begin_01",
+		"fullname": "announcer_dlc_axe_announcer_battle_begin_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_battle_begin_01.mp3",
+		"voice_id": 10061,
+		"text": "The battle begins!",
+		"text_simple": " the battle begins ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGameStart IsAnnouncerVoice_Axe",
+		"pretty_criteria": "As the game starts"
+	},
+	{
+		"name": "announcer_anc_attack_yr_01",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_yr_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_yr_01.mp3",
+		"voice_id": 10061,
+		"text": "Your ancient is under attack.",
+		"text_simple": " your ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsNotSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_yr_02",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_yr_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_yr_02.mp3",
+		"voice_id": 10061,
+		"text": "Your ancient is under attack.",
+		"text_simple": " your ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsNotSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_yr_03",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_yr_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_yr_03.mp3",
+		"voice_id": 10061,
+		"text": "Listen to Axe: Your ancient needs protection.",
+		"text_simple": " listen to axe your ancient needs protection ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsNotSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's ancient is under attack.",
+		"text_simple": " radiants ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsGoodAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_rad_02",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_rad_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's ancient is under attack.",
+		"text_simple": " radiants ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsGoodAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_rad_03",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_rad_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe cannot help but notice that Radiant's ancient is under attack.",
+		"text_simple": " axe cannot help but notice that radiants ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsGoodAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's ancient is under attack.",
+		"text_simple": " dires ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsBadAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_dire_02",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_dire_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's ancient is under attack.",
+		"text_simple": " dires ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsBadAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_dire_03",
+		"fullname": "announcer_dlc_axe_announcer_anc_attack_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_anc_attack_dire_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe speaks true: Dire's Ancient is under attack.",
+		"text_simple": " axe speaks true dires ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsFortAttacked IsBadAttacked IsSpectator IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's ancient is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower is under attack.",
+		"text_simple": " radiants top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower is under attack.",
+		"text_simple": " radiants top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe observes carnage underway at Radiant's top tower.",
+		"text_simple": " axe observes carnage underway at radiants top tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower is under attack.",
+		"text_simple": " radiants middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower is under attack.",
+		"text_simple": " radiants middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "The red mist spreads at Radiant's middle tower.",
+		"text_simple": " the red mist spreads at radiants middle tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower is under attack.",
+		"text_simple": " radiants bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower is under attack.",
+		"text_simple": " radiants bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_rad_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "War has come to Radiant's bottom tower.",
+		"text_simple": " war has come to radiants bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower is under attack.",
+		"text_simple": " dires top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower is under attack.",
+		"text_simple": " dires top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Much like cordwood before Axe's axe, Dire's top tower is under attax.",
+		"text_simple": " much like cordwood before axes axe dires top tower is under attax ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower is under attack.",
+		"text_simple": " dires middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower is under attack.",
+		"text_simple": " dires middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower is not what it used to be, that is for certain.",
+		"text_simple": " dires middle tower is not what it used to be that is for certain ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower is under attack.",
+		"text_simple": " dires bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower is under attack.",
+		"text_simple": " dires bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_dire_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower is taking many wounds.",
+		"text_simple": " dires bottom tower is taking many wounds ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower is under attack.",
+		"text_simple": " your top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower is under attack.",
+		"text_simple": " your top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower is being hacked to pieces.",
+		"text_simple": " your top tower is being hacked to pieces ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower is under attack.",
+		"text_simple": " your middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower is under attack.",
+		"text_simple": " your middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy has a bone to pick with our middle tower.",
+		"text_simple": " the enemy has a bone to pick with our middle tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower is under attack.",
+		"text_simple": " your bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower is under attack.",
+		"text_simple": " your bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_attack_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_attack_yr_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe is glad that your bottom tower is not Axe's problem.",
+		"text_simple": " axe is glad that your bottom tower is not axes problem ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower has fallen.",
+		"text_simple": " your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower has fallen.",
+		"text_simple": " your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Much like Axe's opinion of you, your top tower has fallen.",
+		"text_simple": " much like axes opinion of you your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower has fallen.",
+		"text_simple": " your middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower has fallen.",
+		"text_simple": " your middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe would shed a tear for your middle tower, but Axe does not cry.",
+		"text_simple": " axe would shed a tear for your middle tower but axe does not cry ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower has fallen.",
+		"text_simple": " your bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower has fallen.",
+		"text_simple": " your bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_yr_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe has seen ruins that look better than your bottom tower.",
+		"text_simple": " axe has seen ruins that look better than your bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower has fallen.",
+		"text_simple": " radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower has fallen.",
+		"text_simple": " radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Radian'ts top tower has fallen. If Axe was a tower, he would never fall.",
+		"text_simple": " radiants top tower has fallen if axe was a tower he would never fall ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower has fallen.",
+		"text_simple": " radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower has fallen.",
+		"text_simple": " radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "As Radiant's middle tower falls, Axe's middle finger rises.",
+		"text_simple": " as radiants middle tower falls axes middle finger rises ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower has fallen.",
+		"text_simple": " radiants bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower has fallen.",
+		"text_simple": " radiants bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_rad_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower has been laid low.",
+		"text_simple": " radiants bottom tower has been laid low ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower has fallen.",
+		"text_simple": " dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower has fallen.",
+		"text_simple": " dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Heaven or Hell, Dire's top tower is in one of them.",
+		"text_simple": " heaven or hell dires top tower is in one of them ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has fallen.",
+		"text_simple": " dires middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has fallen.",
+		"text_simple": " dires middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "If Dire's middle tower was worth a damn, it would still be standing.",
+		"text_simple": " if dires middle tower was worth a damn it would still be standing ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower has fallen.",
+		"text_simple": " dires bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower has fallen.",
+		"text_simple": " dires bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower is facedown in the dirt.",
+		"text_simple": " dires bottom tower is facedown in the dirt ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_04",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_dire_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_dire_bot_04.mp3",
+		"voice_id": 10061,
+		"text": "Radiant found weakness in Dire's bottom tower: It turns out if you hit it enough, it will fall.",
+		"text_simple": " radiant found weakness in dires bottom tower it turns out if you hit it enough it will fall ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_top_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top tower has fallen.",
+		"text_simple": " the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_top_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top tower has fallen.",
+		"text_simple": " the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_top_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top tower has capitulated to superior force. Axe brought his thesaurus! Ha ha!",
+		"text_simple": " the enemys top tower has capitulated to superior force axe brought his thesaurus ha ha ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle tower has fallen.",
+		"text_simple": " the enemys middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle tower has fallen.",
+		"text_simple": " the enemys middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle tower has surrendered. To gravity.",
+		"text_simple": " the enemys middle tower has surrendered to gravity ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom tower has fallen.",
+		"text_simple": " the enemys bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom tower has fallen.",
+		"text_simple": " the enemys bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_fall_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_fall_enm_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "You broke the enemy's bottom tower. Axe approves!",
+		"text_simple": " you broke the enemys bottom tower axe approves ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Your top barracks are under attack.",
+		"text_simple": " your top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Your top barracks are under attack.",
+		"text_simple": " your top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe wishes Axe could defend your top rax.",
+		"text_simple": " axe wishes axe could defend your top rax ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Your middle barracks are under attack.",
+		"text_simple": " your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Your middle barracks are under attack.",
+		"text_simple": " your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Explain to Axe, why are your m iddle barracks standing there undefended?",
+		"text_simple": " explain to axe why are your m iddle barracks standing there undefended ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom barracks are under attack.",
+		"text_simple": " your bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom barracks are under attack.",
+		"text_simple": " your bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_yr_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Your peacenik bottom barracks refuse to defend themselves.",
+		"text_simple": " your peacenik bottom barracks refuse to defend themselves ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top barracks are under attack.",
+		"text_simple": " radiants top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top barracks are under attack.",
+		"text_simple": " radiants top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Helpless sounds of begging are coming from Radiant's top barracks.",
+		"text_simple": " helpless sounds of begging are coming from radiants top barracks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle barracks are under attack.",
+		"text_simple": " radiants middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle barracks are under attack.",
+		"text_simple": " radiants middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe would never whine like Radiant's middle barracks.",
+		"text_simple": " axe would never whine like radiants middle barracks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks are under attack.",
+		"text_simple": " radiants bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks are under attack.",
+		"text_simple": " radiants bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks are bearing up stoically in the face of an assault.",
+		"text_simple": " radiants bottom barracks are bearing up stoically in the face of an assault ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_04",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_rad_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_rad_bot_04.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks are begging for their lives.",
+		"text_simple": " radiants bottom barracks are begging for their lives ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top barracks are under attack.",
+		"text_simple": " dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top barracks are under attack.",
+		"text_simple": " dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top barracks are learning the business of war.",
+		"text_simple": " dires top barracks are learning the business of war ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle barracks are under attack.",
+		"text_simple": " dires middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle barracks are under attack.",
+		"text_simple": " dires middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "War has been declared on Dire's middle barracks.",
+		"text_simple": " war has been declared on dires middle barracks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom barracks are under attack.",
+		"text_simple": " dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom barracks are under attack.",
+		"text_simple": " dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_attack_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_attack_dire_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Lake many a barrack before it, Dire's bottom barracks are under attack.",
+		"text_simple": " lake many a barrack before it dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Your top barracks have fallen.",
+		"text_simple": " your top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Your top barracks have fallen.",
+		"text_simple": " your top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Your top barracks have failed you. Curse your top barracks.",
+		"text_simple": " your top barracks have failed you curse your top barracks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_04",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_top_04.mp3",
+		"voice_id": 10061,
+		"text": "Look at your rax. Now look at Axe. Only one of us is still standing.",
+		"text_simple": " look at your rax now look at axe only one of us is still standing ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Your middle barracks have fallen.",
+		"text_simple": " your middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Your middle barracks have fallen.",
+		"text_simple": " your middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Your mid racks have failed you.",
+		"text_simple": " your mid racks have failed you ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom barracks have fallen.",
+		"text_simple": " your bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom barracks have fallen.",
+		"text_simple": " your bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_yr_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom barracks died badly.",
+		"text_simple": " your bottom barracks died badly ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top barracks have fallen.",
+		"text_simple": " radiants top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top barracks have fallen.",
+		"text_simple": " radiants top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_top_03.mp3",
+		"voice_id": 10061,
+		"text": "No more top barracks for the Radiant.",
+		"text_simple": " no more top barracks for the radiant ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle barracks have fallen.",
+		"text_simple": " radiants middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle barracks have fallen.",
+		"text_simple": " radiants middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle barracks have fallen. Pity. They were nice racks.",
+		"text_simple": " radiants middle barracks have fallen pity they were nice racks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks have fallen.",
+		"text_simple": " radiants bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom barracks have fallen.",
+		"text_simple": " radiants bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_rad_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Not to pick sides, but Axe's favorite Radiant bottom barracks have fallen. Aw.",
+		"text_simple": " not to pick sides but axes favorite radiant bottom barracks have fallen aw ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top barracks have fallen.",
+		"text_simple": " dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top barracks have fallen.",
+		"text_simple": " dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Like Axe, Dire's top barracks have learned the hard way that life is unfair.",
+		"text_simple": " like axe dires top barracks have learned the hard way that life is unfair ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle barracks have fallen.",
+		"text_simple": " dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle barracks have fallen.",
+		"text_simple": " dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Unlike Axe, ever, Dire's middle barracks have fallen.",
+		"text_simple": " unlike axe ever dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom barracks have fallen.",
+		"text_simple": " dires bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom barracks have fallen.",
+		"text_simple": " dires bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_dire_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "If Axe was a barracks, he would never fall like Dire's bottom. Barracks.",
+		"text_simple": " if axe was a barracks he would never fall like dires bottom barracks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_top_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top barracks have fallen.",
+		"text_simple": " the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_top_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top barracks have fallen.",
+		"text_simple": " the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_top_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top barracks have been abolished.",
+		"text_simple": " the enemys top barracks have been abolished ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle barracks have fallen.",
+		"text_simple": " the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle barracks have fallen.",
+		"text_simple": " the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle barracks make a nice pile of rubble.",
+		"text_simple": " the enemys middle barracks make a nice pile of rubble ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom barracks have fallen.",
+		"text_simple": " the enemys bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom barracks have fallen.",
+		"text_simple": " the enemys bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_rax_fall_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_rax_fall_enm_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy has had their bottom barracks handed to them.",
+		"text_simple": " the enemy has had their bottom barracks handed to them ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower has been denied.",
+		"text_simple": " your top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Your top tower has been denied.",
+		"text_simple": " your top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_top_03.mp3",
+		"voice_id": 10061,
+		"text": "You took an axe to your top tower? Why did you not ask Axe?",
+		"text_simple": " you took an axe to your top tower why did you not ask axe ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower has been denied.",
+		"text_simple": " your middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower has been denied.",
+		"text_simple": " your middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Your middle tower was savagely betrayed.",
+		"text_simple": " your middle tower was savagely betrayed ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower has been denied.",
+		"text_simple": " your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Your bottom tower has been denied.",
+		"text_simple": " your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_yr_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Such bottom tower betrayal does not sit well with Axe.",
+		"text_simple": " such bottom tower betrayal does not sit well with axe ",
+		"criteria": "Custom Isannouncer_dlc_axe IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_top_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top tower has been denied.",
+		"text_simple": " the enemys top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_top_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's top tower has been denied.",
+		"text_simple": " the enemys top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_top_03.mp3",
+		"voice_id": 10061,
+		"text": "The enemy killed their own top tower. That is dedication.",
+		"text_simple": " the enemy killed their own top tower that is dedication ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle tower has been denied.",
+		"text_simple": " the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's middle tower has been denied.",
+		"text_simple": " the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe marks the spot where the enemy's middle tower was denied.",
+		"text_simple": " axe marks the spot where the enemys middle tower was denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom tower has been denied.",
+		"text_simple": " the enemys bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy's bottom tower has been denied.",
+		"text_simple": " the enemys bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_enm_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "It is a pathetic foe that denies its own bottom tower.",
+		"text_simple": " it is a pathetic foe that denies its own bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower has been denied.",
+		"text_simple": " radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's top tower has been denied.",
+		"text_simple": " radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_top_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe did NOT just see Radiant deny its top tower.",
+		"text_simple": " axe did not just see radiant deny its top tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower has been denied.",
+		"text_simple": " radiants middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's middle tower has been denied.",
+		"text_simple": " radiants middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe could lie about Radiant denying its middle tower, but no one would believe Axe.",
+		"text_simple": " axe could lie about radiant denying its middle tower but no one would believe axe ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower has been denied.",
+		"text_simple": " radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's bottom tower has been denied.",
+		"text_simple": " radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_rad_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Radiant has just won the battle to destroy its bottom tower.",
+		"text_simple": " radiant has just won the battle to destroy its bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_top_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower has been denied.",
+		"text_simple": " dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_top_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower has been denied.",
+		"text_simple": " dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_top_03.mp3",
+		"voice_id": 10061,
+		"text": "As if to spite Axe, Dire has denied its top tower.",
+		"text_simple": " as if to spite axe dire has denied its top tower ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_04",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_top_04.mp3",
+		"voice_id": 10061,
+		"text": "Dire's top tower has been denied. In days of yore we used to call that make-out tower. Aw.",
+		"text_simple": " dires top tower has been denied in days of yore we used to call that makeout tower aw ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_mid_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has been denied.",
+		"text_simple": " dires middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_mid_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has been denied.",
+		"text_simple": " dires middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_mid_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has failed them for the last time.",
+		"text_simple": " dires middle tower has failed them for the last time ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_04",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_mid_04.mp3",
+		"voice_id": 10061,
+		"text": "Dire's middle tower has sacrificed itself. Apology accepted.",
+		"text_simple": " dires middle tower has sacrificed itself apology accepted ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_01",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_bot_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower has been denied.",
+		"text_simple": " dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_02",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_bot_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower has been denied.",
+		"text_simple": " dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_03",
+		"fullname": "announcer_dlc_axe_announcer_twr_deny_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_twr_deny_dire_bot_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's bottom tower is a disappointment to the Dire no longer.",
+		"text_simple": " dires bottom tower is a disappointment to the dire no longer ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_fort_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_fort_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's structures are fortified.",
+		"text_simple": " dires structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_02",
+		"fullname": "announcer_dlc_axe_announcer_fort_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_dire_02.mp3",
+		"voice_id": 10061,
+		"text": "Like Axe, the Dire's structures cannot be hurt.",
+		"text_simple": " like axe the dires structures cannot be hurt ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_03",
+		"fullname": "announcer_dlc_axe_announcer_fort_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_dire_03.mp3",
+		"voice_id": 10061,
+		"text": "Dire's structures can take all the hurt Radiant cares to heap upon it.",
+		"text_simple": " dires structures can take all the hurt radiant cares to heap upon it ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_04",
+		"fullname": "announcer_dlc_axe_announcer_fort_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_dire_04.mp3",
+		"voice_id": 10061,
+		"text": "Dire's structures are fortified. Super, super fortified. Like, you can't even imagine.",
+		"text_simple": " dires structures are fortified super super fortified like you cant even imagine ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_fort_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's structures are fortified.",
+		"text_simple": " radiants structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_02",
+		"fullname": "announcer_dlc_axe_announcer_fort_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_rad_02.mp3",
+		"voice_id": 10061,
+		"text": "Puny Radiant hides behind their fortifications.",
+		"text_simple": " puny radiant hides behind their fortifications ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_03",
+		"fullname": "announcer_dlc_axe_announcer_fort_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_rad_03.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's towers are fortified. Just like Axe.",
+		"text_simple": " radiants towers are fortified just like axe ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_04",
+		"fullname": "announcer_dlc_axe_announcer_fort_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_fort_rad_04.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's structures are fortified with twelve important vitamins and minerals.",
+		"text_simple": " radiants structures are fortified with twelve important vitamins and minerals ",
+		"criteria": "Custom Isannouncer_dlc_axe GlyphUsedGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_cour_kill_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire's courier has been slain.",
+		"text_simple": " dires courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_dire_02",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_dire_02.mp3",
+		"voice_id": 10061,
+		"text": "Dire's courier has been slain.",
+		"text_simple": " dires courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_dire_03",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_dire_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe's heart goes out to Dire's courier.",
+		"text_simple": " axes heart goes out to dires courier ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_dire_04",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_dire_04.mp3",
+		"voice_id": 10061,
+		"text": "Dire's courier shall carry no more.",
+		"text_simple": " dires courier shall carry no more ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's courier has been slain.",
+		"text_simple": " radiants courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_kill_rad_02",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_rad_02.mp3",
+		"voice_id": 10061,
+		"text": "Radiant's courier has been slain.",
+		"text_simple": " radiants courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_kill_rad_03",
+		"fullname": "announcer_dlc_axe_announcer_cour_kill_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_kill_rad_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe sheds a tear for Radiant's courier. Metaphorically speaking. Axe does not actually cry.",
+		"text_simple": " axe sheds a tear for radiants courier metaphorically speaking axe does not actually cry ",
+		"criteria": "Custom Isannouncer_dlc_axe CourierLostGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_follow_01",
+		"fullname": "announcer_dlc_axe_announcer_cour_follow_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_follow_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe does not believe in killing innocent couriers. Killing courtiers is fine though.",
+		"text_simple": " axe does not believe in killing innocent couriers killing courtiers is fine though ",
+		"criteria": "Followup_Generic Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe Chance_25%|Followup_Generic Isannouncer_dlc_axe CourierLostGood IsAnnouncerVoice_Axe Chance_25%",
+		"pretty_criteria": "CourierLostBad Followup (25% chance)|CourierLostGood Followup (25% chance)"
+	},
+	{
+		"name": "announcer_cour_follow_02",
+		"fullname": "announcer_dlc_axe_announcer_cour_follow_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_follow_02.mp3",
+		"voice_id": 10061,
+		"text": "Even couriers are not safe! Now this is a battle!",
+		"text_simple": " even couriers are not safe now this is a battle ",
+		"criteria": "Followup_Generic Isannouncer_dlc_axe CourierLostBad IsAnnouncerVoice_Axe Chance_25%|Followup_Generic Isannouncer_dlc_axe CourierLostGood IsAnnouncerVoice_Axe Chance_25%",
+		"pretty_criteria": "CourierLostBad Followup (25% chance)|CourierLostGood Followup (25% chance)"
+	},
+	{
+		"name": "announcer_cour_stumpy_kill_01",
+		"fullname": "announcer_dlc_axe_announcer_cour_stumpy_kill_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_cour_stumpy_kill_01.mp3",
+		"voice_id": 10061,
+		"text": "There fell Stumpy, sad to say. Axe made Stumpy what he is today!",
+		"text_simple": " there fell stumpy sad to say axe made stumpy what he is today ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_mega_now_you_01",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_you_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_you_01.mp3",
+		"voice_id": 10061,
+		"text": "You now have megacreeps.",
+		"text_simple": " you now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_you_02",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_you_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_you_02.mp3",
+		"voice_id": 10061,
+		"text": "You now have megacreeps.",
+		"text_simple": " you now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_enm_01",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_enm_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_enm_01.mp3",
+		"voice_id": 10061,
+		"text": "The enemy now has megacreeps.",
+		"text_simple": " the enemy now has megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsEnemyMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_enm_02",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_enm_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_enm_02.mp3",
+		"voice_id": 10061,
+		"text": "The enemy now has megacreeps.",
+		"text_simple": " the enemy now has megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsEnemyMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsEnemyMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "The Dire now have megacreeps.",
+		"text_simple": " the dire now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsBadMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_mega_now_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_mega_now_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "The Radiant now have megacreeps.",
+		"text_simple": " the radiant now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodMegaCreeps IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGoodMegaCreeps"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "Roshan has fallen to the Dire!",
+		"text_simple": " roshan has fallen to the dire ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_02",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_dire_02.mp3",
+		"voice_id": 10061,
+		"text": "Roshan has fallen to the Dire!",
+		"text_simple": " roshan has fallen to the dire ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_03",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_dire_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe is impressed. Roshan was a worthy foe.",
+		"text_simple": " axe is impressed roshan was a worthy foe ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_04",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_dire_04.mp3",
+		"voice_id": 10061,
+		"text": "The Dire have cut Roshan down into little pieces.",
+		"text_simple": " the dire have cut roshan down into little pieces ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_05",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_dire_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_dire_05.mp3",
+		"voice_id": 10061,
+		"text": "Roshan and the Dire never did get along.",
+		"text_simple": " roshan and the dire never did get along ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "Roshan has fallen to the Radiant!",
+		"text_simple": " roshan has fallen to the radiant ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_02",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_rad_02.mp3",
+		"voice_id": 10061,
+		"text": "Roshan has fallen to the Radiant!",
+		"text_simple": " roshan has fallen to the radiant ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_03",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_rad_03.mp3",
+		"voice_id": 10061,
+		"text": "The Radiant dislike Roshan very much.",
+		"text_simple": " the radiant dislike roshan very much ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_04",
+		"fullname": "announcer_dlc_axe_announcer_roshan_fallen_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_fallen_rad_04.mp3",
+		"voice_id": 10061,
+		"text": "The Radiant now pick through Roshan's bones for shiny objects.",
+		"text_simple": " the radiant now pick through roshans bones for shiny objects ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRoshanKilledGood IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_idle_01",
+		"fullname": "announcer_dlc_axe_announcer_roshan_idle_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_roshan_idle_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe dreams about Roshan sometimes. Axe wakes sweating in the dark, clutching for his axe, a scream rising in his throat and... Never mind.",
+		"text_simple": " axe dreams about roshan sometimes axe wakes sweating in the dark clutching for his axe a scream rising in his throat and never mind ",
+		"criteria": "Followup_Generic Isannouncer_dlc_axe IsRoshanKilledBad IsAnnouncerVoice_Axe Chance_5%|Followup_Generic Isannouncer_dlc_axe IsRoshanKilledGood IsAnnouncerVoice_Axe Chance_5%",
+		"pretty_criteria": "Roshan killed by The Dire Followup (5% chance)|Roshan killed by The Radiant Followup (5% chance)"
+	},
+	{
+		"name": "announcer_victory_dire_01",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_01.mp3",
+		"voice_id": 10061,
+		"text": "Dire victory!",
+		"text_simple": " dire victory ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsBadVictory"
+	},
+	{
+		"name": "announcer_victory_dire_02",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_02.mp3",
+		"voice_id": 10061,
+		"text": "Axe awards the victory honors to the Dire!",
+		"text_simple": " axe awards the victory honors to the dire ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsBadVictory"
+	},
+	{
+		"name": "announcer_victory_dire_03",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_03.mp3",
+		"voice_id": 10061,
+		"text": "Proving they are no hacks, Dire takes the day! Not that there is anything wrong with hacking.",
+		"text_simple": " proving they are no hacks dire takes the day not that there is anything wrong with hacking ",
+		"criteria": "Custom Isannouncer_dlc_axe IsBadVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsBadVictory"
+	},
+	{
+		"name": "announcer_victory_dire_04",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_04.mp3",
+		"voice_id": 10061,
+		"text": "The Dire won without Axe? Impressive!",
+		"text_simple": " the dire won without axe impressive ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_victory_dire_05",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_05.mp3",
+		"voice_id": 10061,
+		"text": "Dire victory, thanks to Axe!",
+		"text_simple": " dire victory thanks to axe ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_victory_dire_06",
+		"fullname": "announcer_dlc_axe_announcer_victory_dire_06",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_dire_06.mp3",
+		"voice_id": 10061,
+		"text": "Never underestimate the importance of Axe!",
+		"text_simple": " never underestimate the importance of axe ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_victory_rad_01",
+		"fullname": "announcer_dlc_axe_announcer_victory_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_rad_01.mp3",
+		"voice_id": 10061,
+		"text": "Radiant victory!",
+		"text_simple": " radiant victory ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGoodVictory"
+	},
+	{
+		"name": "announcer_victory_rad_02",
+		"fullname": "announcer_dlc_axe_announcer_victory_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_rad_02.mp3",
+		"voice_id": 10061,
+		"text": "Axe proclaims a Radiant victory!",
+		"text_simple": " axe proclaims a radiant victory ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGoodVictory"
+	},
+	{
+		"name": "announcer_victory_rad_03",
+		"fullname": "announcer_dlc_axe_announcer_victory_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_rad_03.mp3",
+		"voice_id": 10061,
+		"text": "To the Radiant, the spoils... Say, does Axe get a cut?",
+		"text_simple": " to the radiant the spoils say does axe get a cut ",
+		"criteria": "Custom Isannouncer_dlc_axe IsGoodVictory IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsGoodVictory"
+	},
+	{
+		"name": "announcer_victory_rad_04",
+		"fullname": "announcer_dlc_axe_announcer_victory_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_rad_04.mp3",
+		"voice_id": 10061,
+		"text": "Axe could have won for the Radiant in half the time! Alone!",
+		"text_simple": " axe could have won for the radiant in half the time alone ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_victory_rad_05",
+		"fullname": "announcer_dlc_axe_announcer_victory_rad_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_victory_rad_05.mp3",
+		"voice_id": 10061,
+		"text": "Radiant Victory! Good thing Axe was there!",
+		"text_simple": " radiant victory good thing axe was there ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_type_all_pick",
+		"fullname": "announcer_dlc_axe_announcer_type_all_pick",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_all_pick.mp3",
+		"voice_id": 10061,
+		"text": "All Pick.",
+		"text_simple": " all pick ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAllPick IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsAllPick"
+	},
+	{
+		"name": "announcer_type_all_random",
+		"fullname": "announcer_dlc_axe_announcer_type_all_random",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_all_random.mp3",
+		"voice_id": 10061,
+		"text": "All Random.",
+		"text_simple": " all random ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAllRandom IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsAllRandom"
+	},
+	{
+		"name": "announcer_type_capt_draft",
+		"fullname": "announcer_dlc_axe_announcer_type_capt_draft",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_capt_draft.mp3",
+		"voice_id": 10061,
+		"text": "Captain's Draft.",
+		"text_simple": " captains draft ",
+		"criteria": "Custom Isannouncer_dlc_axe IsCaptainsDraft IsDraftBegin IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsCaptainsDraft IsDraftBegin"
+	},
+	{
+		"name": "announcer_type_capt_mode",
+		"fullname": "announcer_dlc_axe_announcer_type_capt_mode",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_capt_mode.mp3",
+		"voice_id": 10061,
+		"text": "Captains Mode.",
+		"text_simple": " captains mode ",
+		"criteria": "Custom Isannouncer_dlc_axe IsCaptainsMode IsDraftBegin IsAnnouncerVoice_Axe|Custom Isannouncer_dlc_axe IsReverseCaptainsMode IsDraftBegin IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsCaptainsMode IsDraftBegin|IsReverseCaptainsMode IsDraftBegin"
+	},
+	{
+		"name": "announcer_type_random_draft",
+		"fullname": "announcer_dlc_axe_announcer_type_random_draft",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_random_draft.mp3",
+		"voice_id": 10061,
+		"text": "Random Draft.",
+		"text_simple": " random draft ",
+		"criteria": "Custom Isannouncer_dlc_axe IsRandomDraft IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsRandomDraft"
+	},
+	{
+		"name": "announcer_type_single_draft",
+		"fullname": "announcer_dlc_axe_announcer_type_single_draft",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_single_draft.mp3",
+		"voice_id": 10061,
+		"text": "Single Draft.",
+		"text_simple": " single draft ",
+		"criteria": "Custom Isannouncer_dlc_axe IsSingleDraft IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsSingleDraft"
+	},
+	{
+		"name": "announcer_type_death_match",
+		"fullname": "announcer_dlc_axe_announcer_type_death_match",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_death_match.mp3",
+		"voice_id": 10061,
+		"text": "Death Match.",
+		"text_simple": " death match ",
+		"criteria": "Custom Isannouncer_dlc_axe IsDeathMatch IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsDeathMatch"
+	},
+	{
+		"name": "announcer_type_easy_mode",
+		"fullname": "announcer_dlc_axe_announcer_type_easy_mode",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_type_easy_mode.mp3",
+		"voice_id": 10061,
+		"text": "Easy Mode.",
+		"text_simple": " easy mode ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_ally_neg_01",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe was not involved.",
+		"text_simple": " axe was not involved ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_02",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_02.mp3",
+		"voice_id": 10061,
+		"text": "Do not blame Axe.",
+		"text_simple": " do not blame axe ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_04",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_04.mp3",
+		"voice_id": 10061,
+		"text": "Axe wishes it was you, instead.",
+		"text_simple": " axe wishes it was you instead ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_05",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_05.mp3",
+		"voice_id": 10061,
+		"text": "Are you going to do something about that?",
+		"text_simple": " are you going to do something about that ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_06",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_06",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_06.mp3",
+		"voice_id": 10061,
+		"text": "It could be worse. Or could it?",
+		"text_simple": " it could be worse or could it ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_07",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_07",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_07.mp3",
+		"voice_id": 10061,
+		"text": "Axe needs something to chop.",
+		"text_simple": " axe needs something to chop ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_08",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_08",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_08.mp3",
+		"voice_id": 10061,
+		"text": "Your edge needs sharpening.",
+		"text_simple": " your edge needs sharpening ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_09",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_09",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_09.mp3",
+		"voice_id": 10061,
+		"text": "Tend to your wounded or put them out of their misery.",
+		"text_simple": " tend to your wounded or put them out of their misery ",
+		"criteria": "Followup_Negative Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_10",
+		"fullname": "announcer_dlc_axe_announcer_ally_neg_10",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_neg_10.mp3",
+		"voice_id": 10061,
+		"text": "Only the strong survive.",
+		"text_simple": " only the strong survive ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_ally_pos_01",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_01.mp3",
+		"voice_id": 10061,
+		"text": "Surprising, given the lack of Axe.",
+		"text_simple": " surprising given the lack of axe ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_02",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_02.mp3",
+		"voice_id": 10061,
+		"text": "Axe likes!",
+		"text_simple": " axe likes ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_03",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe likes!",
+		"text_simple": " axe likes ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_04",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_04.mp3",
+		"voice_id": 10061,
+		"text": "Would have been faster with Axe.",
+		"text_simple": " would have been faster with axe ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_05",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_05.mp3",
+		"voice_id": 10061,
+		"text": "That was Axetacular!",
+		"text_simple": " that was axetacular ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_06",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_06",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_06.mp3",
+		"voice_id": 10061,
+		"text": "Axe is getting misty eyed.",
+		"text_simple": " axe is getting misty eyed ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_07",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_07",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_07.mp3",
+		"voice_id": 10061,
+		"text": "Do not miss this chance to push your advantage.",
+		"text_simple": " do not miss this chance to push your advantage ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_08",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_08",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_08.mp3",
+		"voice_id": 10061,
+		"text": "That was done in the spirit of Axe.",
+		"text_simple": " that was done in the spirit of axe ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_10",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_10",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_10.mp3",
+		"voice_id": 10061,
+		"text": "More like that please.",
+		"text_simple": " more like that please ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_11",
+		"fullname": "announcer_dlc_axe_announcer_ally_pos_11",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_ally_pos_11.mp3",
+		"voice_id": 10061,
+		"text": "Oh, good day sir, indeed!",
+		"text_simple": " oh good day sir indeed ",
+		"criteria": "Followup_Positive Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_event_neg_01",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_01.mp3",
+		"voice_id": 10061,
+		"text": "Perhaps more Axe is called for.",
+		"text_simple": " perhaps more axe is called for ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_02",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_02.mp3",
+		"voice_id": 10061,
+		"text": "How long can this go on?",
+		"text_simple": " how long can this go on ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_03",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_03.mp3",
+		"voice_id": 10061,
+		"text": "Those with eyes to see have covered them.",
+		"text_simple": " those with eyes to see have covered them ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_04",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_04",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_04.mp3",
+		"voice_id": 10061,
+		"text": "Axe admits to some confusion.",
+		"text_simple": " axe admits to some confusion ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_05",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_05",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_05.mp3",
+		"voice_id": 10061,
+		"text": "Axe is tempted to join the fray.",
+		"text_simple": " axe is tempted to join the fray ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_06",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_06",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_06.mp3",
+		"voice_id": 10061,
+		"text": "Be more Axelike!",
+		"text_simple": " be more axelike ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_07",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_07",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_07.mp3",
+		"voice_id": 10061,
+		"text": "Time to channel the inner Axe!",
+		"text_simple": " time to channel the inner axe ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_08",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_08",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_08.mp3",
+		"voice_id": 10061,
+		"text": "Axe cannot bear to watch.",
+		"text_simple": " axe cannot bear to watch ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_09",
+		"fullname": "announcer_dlc_axe_announcer_event_neg_09",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_event_neg_09.mp3",
+		"voice_id": 10061,
+		"text": "This is causing Axe physical pain.",
+		"text_simple": " this is causing axe physical pain ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_axe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_idle_to_player_01",
+		"fullname": "announcer_dlc_axe_announcer_idle_to_player_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_idle_to_player_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe does not pick sides. But Axe is on your side.",
+		"text_simple": " axe does not pick sides but axe is on your side ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnounceIdle DuringGame Chance_10% IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsAnnounceIdle at more than 1 minute in (10% chance)"
+	},
+	{
+		"name": "announcer_idle_to_player_02",
+		"fullname": "announcer_dlc_axe_announcer_idle_to_player_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_idle_to_player_02.mp3",
+		"voice_id": 10061,
+		"text": "Axe does not pick sides. But your enemy sucks.",
+		"text_simple": " axe does not pick sides but your enemy sucks ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnounceIdle DuringGame Chance_10% IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsAnnounceIdle at more than 1 minute in (10% chance)"
+	},
+	{
+		"name": "announcer_idle_01",
+		"fullname": "announcer_dlc_axe_announcer_idle_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_idle_01.mp3",
+		"voice_id": 10061,
+		"text": "If war is not fair, why call it warfare?",
+		"text_simple": " if war is not fair why call it warfare ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnounceIdle DuringGame Chance_10% IsAnnouncerVoice_Axe",
+		"pretty_criteria": "IsAnnounceIdle at more than 1 minute in (10% chance)"
+	},
+	{
+		"name": "announcer_idle_02",
+		"fullname": "announcer_dlc_axe_announcer_idle_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_idle_02.mp3",
+		"voice_id": 10061,
+		"text": "Someone brought an Axe to an axe-fight!",
+		"text_simple": " someone brought an axe to an axefight ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnounceHeroPick Chance_50% IsEnemyAxe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A player picked Axe (50% chance)"
+	},
+	{
+		"name": "announcer_idle_03",
+		"fullname": "announcer_dlc_axe_announcer_idle_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_idle_03.mp3",
+		"voice_id": 10061,
+		"text": "Oh, little Axe is in this game!",
+		"text_simple": " oh little axe is in this game ",
+		"criteria": "Custom Isannouncer_dlc_axe IsAnnounceHeroPick Chance_50% IsEnemyAxe IsAnnouncerVoice_Axe",
+		"pretty_criteria": "A player picked Axe (50% chance)"
+	},
+	{
+		"name": "announcer_self_megakill_01",
+		"fullname": "announcer_dlc_axe_announcer_self_megakill_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_self_megakill_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe is looking good out there!",
+		"text_simple": " axe is looking good out there ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_self_megakill_02",
+		"fullname": "announcer_dlc_axe_announcer_self_megakill_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_self_megakill_02.mp3",
+		"voice_id": 10061,
+		"text": "Go, Axe, go!",
+		"text_simple": " go axe go ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_self_megakill_03",
+		"fullname": "announcer_dlc_axe_announcer_self_megakill_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_self_megakill_03.mp3",
+		"voice_id": 10061,
+		"text": "Axe knew Axe could do it!",
+		"text_simple": " axe knew axe could do it ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_player_aegis_01",
+		"fullname": "announcer_dlc_axe_announcer_player_aegis_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_player_aegis_01.mp3",
+		"voice_id": 10061,
+		"text": "Axe thinks you should die a few times first to get used to the idea.",
+		"text_simple": " axe thinks you should die a few times first to get used to the idea ",
+		"criteria": "Respawn Isannouncer_dlc_axe Chance_3%",
+		"pretty_criteria": "Respawning (3% chance)"
+	},
+	{
+		"name": "announcer_defeat_special_01",
+		"fullname": "announcer_dlc_axe_announcer_defeat_special_01",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_defeat_special_01.mp3",
+		"voice_id": 10061,
+		"text": "You were defeated? Axe wasn't with you. There was no way you could win.",
+		"text_simple": " you were defeated axe wasnt with you there was no way you could win ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_defeat_special_02",
+		"fullname": "announcer_dlc_axe_announcer_defeat_special_02",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_defeat_special_02.mp3",
+		"voice_id": 10061,
+		"text": "Defeated? Even with Axe? How?",
+		"text_simple": " defeated even with axe how ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_defeat_special_03",
+		"fullname": "announcer_dlc_axe_announcer_defeat_special_03",
+		"mp3": "/sounds/vo/announcer_dlc_axe/announcer_defeat_special_03.mp3",
+		"voice_id": 10061,
+		"text": "Well of course you lost. You stood against Axe!",
+		"text_simple": " well of course you lost you stood against axe ",
+		"pretty_criteria": "Unused"
+	}
+]

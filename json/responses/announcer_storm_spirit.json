@@ -1,0 +1,3051 @@
+[
+	{
+		"name": "announcer_welcome_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_welcome_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_welcome_01.mp3",
+		"voice_id": 10029,
+		"text": "Welcome to Dota!",
+		"text_simple": " welcome to dota ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_welcome_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_welcome_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_welcome_02.mp3",
+		"voice_id": 10029,
+		"text": "Welcome to Dota!",
+		"text_simple": " welcome to dota ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_pick_yr",
+		"fullname": "announcer_dlc_stormspirit_announcer_pick_yr",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_pick_yr.mp3",
+		"voice_id": 10029,
+		"text": "Your turn to pick.",
+		"text_simple": " your turn to pick ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsPickYour",
+		"pretty_criteria": "IsPickYour"
+	},
+	{
+		"name": "announcer_pick_enm",
+		"fullname": "announcer_dlc_stormspirit_announcer_pick_enm",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_pick_enm.mp3",
+		"voice_id": 10029,
+		"text": "Enemy's turn to pick.",
+		"text_simple": " enemys turn to pick ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsPlayerTeam_Radiant IsPickDire|Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsPlayerTeam_Dire IsPickRadiant",
+		"pretty_criteria": "IsPickDire|IsPickRadiant"
+	},
+	{
+		"name": "announcer_pick_dire",
+		"fullname": "announcer_dlc_stormspirit_announcer_pick_dire",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_pick_dire.mp3",
+		"voice_id": 10029,
+		"text": "Dire team pick.",
+		"text_simple": " dire team pick ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsPickDire IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsPickDire"
+	},
+	{
+		"name": "announcer_pick_rad",
+		"fullname": "announcer_dlc_stormspirit_announcer_pick_rad",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_pick_rad.mp3",
+		"voice_id": 10029,
+		"text": "Radiant team pick.",
+		"text_simple": " radiant team pick ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsPickRadiant IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsPickRadiant"
+	},
+	{
+		"name": "announcer_ban_yr",
+		"fullname": "announcer_dlc_stormspirit_announcer_ban_yr",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ban_yr.mp3",
+		"voice_id": 10029,
+		"text": "Your turn to ban.",
+		"text_simple": " your turn to ban ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsBanYour",
+		"pretty_criteria": "IsBanYour"
+	},
+	{
+		"name": "announcer_ban_enm",
+		"fullname": "announcer_dlc_stormspirit_announcer_ban_enm",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ban_enm.mp3",
+		"voice_id": 10029,
+		"text": "Enemy's turn to ban.",
+		"text_simple": " enemys turn to ban ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsBanDire IsPlayerTeam_Radiant|Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsBanRadiant IsPlayerTeam_Dire",
+		"pretty_criteria": "IsBanDire|IsBanRadiant"
+	},
+	{
+		"name": "announcer_ban_dire",
+		"fullname": "announcer_dlc_stormspirit_announcer_ban_dire",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ban_dire.mp3",
+		"voice_id": 10029,
+		"text": "Dire team ban.",
+		"text_simple": " dire team ban ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsBanDire IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsBanDire"
+	},
+	{
+		"name": "announcer_ban_rad",
+		"fullname": "announcer_dlc_stormspirit_announcer_ban_rad",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ban_rad.mp3",
+		"voice_id": 10029,
+		"text": "Radiant team ban.",
+		"text_simple": " radiant team ban ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsBanRadiant IsPlayerTeam_Spectator",
+		"pretty_criteria": "IsBanRadiant"
+	},
+	{
+		"name": "announcer_team_complete_rad",
+		"fullname": "announcer_dlc_stormspirit_announcer_team_complete_rad",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_team_complete_rad.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's team is complete.",
+		"text_simple": " radiants team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_team_complete_yr",
+		"fullname": "announcer_dlc_stormspirit_announcer_team_complete_yr",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_team_complete_yr.mp3",
+		"voice_id": 10029,
+		"text": "Your team is complete.",
+		"text_simple": " your team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_team_complete_dire",
+		"fullname": "announcer_dlc_stormspirit_announcer_team_complete_dire",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_team_complete_dire.mp3",
+		"voice_id": 10029,
+		"text": "Dire's team is complete.",
+		"text_simple": " dires team is complete ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_count_pick_10",
+		"fullname": "announcer_dlc_stormspirit_announcer_count_pick_10",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_count_pick_10.mp3",
+		"voice_id": 10029,
+		"text": "Ten seconds remaining.",
+		"text_simple": " ten seconds remaining ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit Is10SecToPick|Custom Isannouncer_dlc_stormspirit IsTenSecondsRemaining IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Is10SecToPick|IsTenSecondsRemaining"
+	},
+	{
+		"name": "announcer_count_pick_5",
+		"fullname": "announcer_dlc_stormspirit_announcer_count_pick_5",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_count_pick_5.mp3",
+		"voice_id": 10029,
+		"text": "Five seconds remaining.",
+		"text_simple": " five seconds remaining ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit Is5SecToPick|Custom Isannouncer_dlc_stormspirit IsFiveSecondsRemaining IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Is5SecToPick|IsFiveSecondsRemaining"
+	},
+	{
+		"name": "announcer_time_reserve",
+		"fullname": "announcer_dlc_stormspirit_announcer_time_reserve",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_time_reserve.mp3",
+		"voice_id": 10029,
+		"text": "Reserve time.",
+		"text_simple": " reserve time ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsReserveTime",
+		"pretty_criteria": "IsReserveTime"
+	},
+	{
+		"name": "announcer_time_extra",
+		"fullname": "announcer_dlc_stormspirit_announcer_time_extra",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_time_extra.mp3",
+		"voice_id": 10029,
+		"text": "Extra time.",
+		"text_simple": " extra time ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_time_reserve_using",
+		"fullname": "announcer_dlc_stormspirit_announcer_time_reserve_using",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_time_reserve_using.mp3",
+		"voice_id": 10029,
+		"text": "You are using Reserve Time.",
+		"text_simple": " you are using reserve time ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_time_extra_using",
+		"fullname": "announcer_dlc_stormspirit_announcer_time_extra_using",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_time_extra_using.mp3",
+		"voice_id": 10029,
+		"text": "You are using Extra Time.",
+		"text_simple": " you are using extra time ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_choose_hero",
+		"fullname": "announcer_dlc_stormspirit_announcer_choose_hero",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_choose_hero.mp3",
+		"voice_id": 10029,
+		"text": "Choose your hero.",
+		"text_simple": " choose your hero ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit IsSelectHero|Custom Isannouncer_dlc_stormspirit IsMidOnly IsAnnouncerVoice_StormSpirit|Custom Isannouncer_dlc_stormspirit IsLeastPlayed IsAnnouncerVoice_StormSpirit|Custom Isannouncer_dlc_stormspirit IsLimitedHeroes IsAnnouncerVoice_StormSpirit|Custom Isannouncer_dlc_stormspirit IsCustomMode IsAnnouncerVoice_StormSpirit|Custom Isannouncer_dlc_stormspirit IsOneVsOne IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsSelectHero|IsMidOnly|IsLeastPlayed|IsLimitedHeroes|IsCustomMode|IsOneVsOne"
+	},
+	{
+		"name": "announcer_count_battle_30",
+		"fullname": "announcer_dlc_stormspirit_announcer_count_battle_30",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_count_battle_30.mp3",
+		"voice_id": 10029,
+		"text": "Thirty seconds to battle.",
+		"text_simple": " thirty seconds to battle ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGameStarting30 IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGameStarting30"
+	},
+	{
+		"name": "announcer_count_battle_10",
+		"fullname": "announcer_dlc_stormspirit_announcer_count_battle_10",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_count_battle_10.mp3",
+		"voice_id": 10029,
+		"text": "Ten seconds to battle.",
+		"text_simple": " ten seconds to battle ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGameStarting10 IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGameStarting10"
+	},
+	{
+		"name": "announcer_battle_prepare_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_battle_prepare_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_battle_prepare_01.mp3",
+		"voice_id": 10029,
+		"text": "Prepare for battle!",
+		"text_simple": " prepare for battle ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsPrepStart IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsPrepStart"
+	},
+	{
+		"name": "announcer_battle_prepare_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_battle_prepare_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_battle_prepare_02.mp3",
+		"voice_id": 10029,
+		"text": "Prepare for battle!",
+		"text_simple": " prepare for battle ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsPrepStart IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsPrepStart"
+	},
+	{
+		"name": "announcer_battle_begin_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_battle_begin_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_battle_begin_01.mp3",
+		"voice_id": 10029,
+		"text": "The battle begins!",
+		"text_simple": " the battle begins ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGameStart IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "As the game starts"
+	},
+	{
+		"name": "announcer_battle_begin_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_battle_begin_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_battle_begin_02.mp3",
+		"voice_id": 10029,
+		"text": "The battle begins!",
+		"text_simple": " the battle begins ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGameStart IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "As the game starts"
+	},
+	{
+		"name": "announcer_anc_attack_yr_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_yr_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_yr_01.mp3",
+		"voice_id": 10029,
+		"text": "Your ancient is under attack.",
+		"text_simple": " your ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsNotSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_yr_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_yr_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_yr_02.mp3",
+		"voice_id": 10029,
+		"text": "I wouldn't wish your ancient's fate on my worst enemy.",
+		"text_simple": " i wouldnt wish your ancients fate on my worst enemy ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsNotSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's ancient is under attack.",
+		"text_simple": " radiants ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsGoodAttacked IsSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "Deserved or not, Radiant's ancient is under attack.",
+		"text_simple": " deserved or not radiants ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsGoodAttacked IsSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's ancient is under attack.",
+		"text_simple": " dires ancient is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsBadAttacked IsSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's ancient is being attacked"
+	},
+	{
+		"name": "announcer_anc_attack_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_anc_attack_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_anc_attack_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "There's something about Dire's ancient that just cries out to be attacked.",
+		"text_simple": " theres something about dires ancient that just cries out to be attacked ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsFortAttacked IsBadAttacked IsSpectator IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's ancient is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower is under attack.",
+		"text_simple": " radiants top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower is under attack.",
+		"text_simple": " radiants top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_top_03.mp3",
+		"voice_id": 10029,
+		"text": "The Dire just can't resist attacking Radiant's top tower.",
+		"text_simple": " the dire just cant resist attacking radiants top tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower is under attack.",
+		"text_simple": " radiants middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower is under attack.",
+		"text_simple": " radiants middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Radiant must summon the spirit to defend their top tower.",
+		"text_simple": " radiant must summon the spirit to defend their top tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower is under attack.",
+		"text_simple": " radiants bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower is under attack.",
+		"text_simple": " radiants bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_rad_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_rad_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "The Direst elements are pelting Radiant's bottom tower.",
+		"text_simple": " the direst elements are pelting radiants bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower is under attack.",
+		"text_simple": " dires top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower is under attack.",
+		"text_simple": " dires top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_top_03.mp3",
+		"voice_id": 10029,
+		"text": "The Dire's poor top tower, can its end be drawing nigh?",
+		"text_simple": " the dires poor top tower can its end be drawing nigh ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower is under attack.",
+		"text_simple": " dires middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower is under attack.",
+		"text_simple": " dires middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Time is running out for Dire's middle tower.",
+		"text_simple": " time is running out for dires middle tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower is under attack.",
+		"text_simple": " dires bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower is under attack.",
+		"text_simple": " dires bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_dire_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_dire_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Oh, cover your eyes, Dire's bottom tower is taking a drubbing.",
+		"text_simple": " oh cover your eyes dires bottom tower is taking a drubbing ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower is under attack.",
+		"text_simple": " your top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower is under attack.",
+		"text_simple": " your top tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Summon the will to defend your top tower.",
+		"text_simple": " summon the will to defend your top tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower is under attack.",
+		"text_simple": " your middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower is under attack.",
+		"text_simple": " your middle tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Look lively now, your middle tower is under attack. What are you, amateurs?",
+		"text_simple": " look lively now your middle tower is under attack what are you amateurs ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Look lively now, your middle tower is under attack. How disappointing.",
+		"text_simple": " look lively now your middle tower is under attack how disappointing ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower is under attack.",
+		"text_simple": " your bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower is under attack.",
+		"text_simple": " your bottom tower is under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_attack_yr_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_attack_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_attack_yr_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Procrastination could spell the end of your bottom tower.",
+		"text_simple": " procrastination could spell the end of your bottom tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom tower is being attacked"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower has fallen.",
+		"text_simple": " your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower has fallen.",
+		"text_simple": " your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_top_03.mp3",
+		"voice_id": 10029,
+		"text": "I hate to say it but your top tower has fallen.",
+		"text_simple": " i hate to say it but your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_top_04.mp3",
+		"voice_id": 10029,
+		"text": "I don't mean to be a downer but your top tower has fallen.",
+		"text_simple": " i dont mean to be a downer but your top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower has fallen.",
+		"text_simple": " your middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower has fallen.",
+		"text_simple": " your middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "May the sky itself weep for your fallen middle tower.",
+		"text_simple": " may the sky itself weep for your fallen middle tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "May choirs of angels accompany your middle tower to the nether regions.",
+		"text_simple": " may choirs of angels accompany your middle tower to the nether regions ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower has fallen.",
+		"text_simple": " your bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower has fallen.",
+		"text_simple": " your bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_yr_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_yr_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "If you wish a eulogy to be delivered for your bottom tower, my rates are very reasonable.",
+		"text_simple": " if you wish a eulogy to be delivered for your bottom tower my rates are very reasonable ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower has fallen.",
+		"text_simple": " radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower has fallen.",
+		"text_simple": " radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Well blow me over, Radiant's top tower has fallen.",
+		"text_simple": " well blow me over radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Whoop de doo! Radiant's top tower has fallen.",
+		"text_simple": " whoop de doo radiants top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower has fallen.",
+		"text_simple": " radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower has fallen.",
+		"text_simple": " radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Beset on all sides, Radiant's middle tower has fallen.",
+		"text_simple": " beset on all sides radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Beset on all sides by miscreants, evildoers and other people that I don't even want to mention, Radiant's middle tower has fallen.",
+		"text_simple": " beset on all sides by miscreants evildoers and other people that i dont even want to mention radiants middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower has fallen.",
+		"text_simple": " radiants bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower has fallen.",
+		"text_simple": " radiants bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_rad_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_rad_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "You don't need to be amazing to point out that Radiant's bottom tower has fallen, but it doesn't hurt.",
+		"text_simple": " you dont need to be amazing to point out that radiants bottom tower has fallen but it doesnt hurt ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower has fallen.",
+		"text_simple": " dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower has fallen.",
+		"text_simple": " dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Party it up, bucko. Dire's top tower has fallen.",
+		"text_simple": " party it up bucko dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Enjoy yourself while you can, for Dire's top tower has fallen.",
+		"text_simple": " enjoy yourself while you can for dires top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower has fallen.",
+		"text_simple": " dires middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower has fallen.",
+		"text_simple": " dires middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Sometimes I find myself saying for no reason at all, Dire's middle tower has fallen. Oh wait! There's a good reason to say it this time. Aha.",
+		"text_simple": " sometimes i find myself saying for no reason at all dires middle tower has fallen oh wait theres a good reason to say it this time aha ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower has fallen.",
+		"text_simple": " dires bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower has fallen.",
+		"text_simple": " dires bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_dire_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_dire_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "If you were Dire's bottom tower, you would have fallen just now.",
+		"text_simple": " if you were dires bottom tower you would have fallen just now ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_top_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top tower has fallen.",
+		"text_simple": " the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_top_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top tower has fallen.",
+		"text_simple": " the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Pat yourself on the back, as I do, for the enemy's top tower has fallen.",
+		"text_simple": " pat yourself on the back as i do for the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Odd's bodkins and gadzooks! The enemy's top tower has fallen.",
+		"text_simple": " odds bodkins and gadzooks the enemys top tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle tower has fallen.",
+		"text_simple": " the enemys middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle tower has fallen.",
+		"text_simple": " the enemys middle tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Give yourself a big juicy prize, the enemy's middle tower has completely collapsed.",
+		"text_simple": " give yourself a big juicy prize the enemys middle tower has completely collapsed ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Give yourself a prize, the enemy's middle tower has collapsed.",
+		"text_simple": " give yourself a prize the enemys middle tower has collapsed ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom tower has fallen.",
+		"text_simple": " the enemys bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom tower has fallen.",
+		"text_simple": " the enemys bottom tower has fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_twr_fall_enm_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_fall_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_fall_enm_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "A moment's silence for the enemy's bottom tower. And we're back!",
+		"text_simple": " a moments silence for the enemys bottom tower and were back ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsNotDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was destroyed"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Your top barracks are under attack.",
+		"text_simple": " your top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Your top barracks are under attack.",
+		"text_simple": " your top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_top_03.mp3",
+		"voice_id": 10029,
+		"text": "You must summon the spirit to defend your top barracks.",
+		"text_simple": " you must summon the spirit to defend your top barracks ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Come on, lads, let's defend your top barracks.",
+		"text_simple": " come on lads lets defend your top barracks ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Your middle barracks are under attack.",
+		"text_simple": " your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Your middle barracks are under attack.",
+		"text_simple": " your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Hello? Wake up and smell the coffee. Your middle barracks are under attack.",
+		"text_simple": " hello wake up and smell the coffee your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Just in case you hadn't noticed, your middle barracks are under attack.",
+		"text_simple": " just in case you hadnt noticed your middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom barracks are under attack.",
+		"text_simple": " your bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom barracks are under attack.",
+		"text_simple": " your bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_yr_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_yr_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Let this be a warning to you. Your bottom barracks are under attack.",
+		"text_simple": " let this be a warning to you your bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsNotSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Your bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top barracks are under attack.",
+		"text_simple": " radiants top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top barracks are under attack.",
+		"text_simple": " radiants top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Just in case it isn't obvious to everyone, Radiant's top barracks are under attack.",
+		"text_simple": " just in case it isnt obvious to everyone radiants top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle barracks are under attack.",
+		"text_simple": " radiants middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle barracks are under attack.",
+		"text_simple": " radiants middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "I never thought I'd have to say, this, but Radiant's middle barracks are under attack.",
+		"text_simple": " i never thought id have to say this but radiants middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom barracks are under attack.",
+		"text_simple": " radiants bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom barracks are under attack.",
+		"text_simple": " radiants bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_rad_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_rad_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Can it be? Yes! Radiant's bottom barracks are under attack.",
+		"text_simple": " can it be yes radiants bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsGoodAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top barracks are under attack.",
+		"text_simple": " dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top barracks are under attack.",
+		"text_simple": " dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Unless I'm very much mistaken, which is impossible, Dire's top barracks are under attack.",
+		"text_simple": " unless im very much mistaken which is impossible dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Unless I'm mistaken, he he he let's be serious, Dire's top barracks are under attack.",
+		"text_simple": " unless im mistaken he he he lets be serious dires top barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle barracks are under attack.",
+		"text_simple": " dires middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle barracks are under attack.",
+		"text_simple": " dires middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "While we're on the subject, Dire's middle barracks are under attack.",
+		"text_simple": " while were on the subject dires middle barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom barracks are under attack.",
+		"text_simple": " dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom barracks are under attack.",
+		"text_simple": " dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Well what do you know? Dire's bottom barracks are under attack.",
+		"text_simple": " well what do you know dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_attack_dire_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_attack_dire_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_attack_dire_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "Well dress me up and call me Shirley: Dire's bottom barracks are under attack.",
+		"text_simple": " well dress me up and call me shirley dires bottom barracks are under attack ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksAttacked IsBadAttacked IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks are being attacked"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Your top barracks have fallen.",
+		"text_simple": " your top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Your top barracks have fallen.",
+		"text_simple": " your top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_top_03.mp3",
+		"voice_id": 10029,
+		"text": "The wind whistles through the ruins of your top barracks.",
+		"text_simple": " the wind whistles through the ruins of your top barracks ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Your middle barracks have fallen.",
+		"text_simple": " your middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Your middle barracks have fallen.",
+		"text_simple": " your middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Your middle barracks have been blown away.",
+		"text_simple": " your middle barracks have been blown away ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "The breeze now blows unhindered where once your middle barracks stood.",
+		"text_simple": " the breeze now blows unhindered where once your middle barracks stood ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom barracks have fallen.",
+		"text_simple": " your bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom barracks have fallen.",
+		"text_simple": " your bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "The world's been swept clean of your bottom barracks.",
+		"text_simple": " the worlds been swept clean of your bottom barracks ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_yr_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_yr_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_yr_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "The world's been swept clean of your bottom barracks.",
+		"text_simple": " the worlds been swept clean of your bottom barracks ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top barracks have fallen.",
+		"text_simple": " radiants top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top barracks have fallen.",
+		"text_simple": " radiants top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_top_03.mp3",
+		"voice_id": 10029,
+		"text": "This news just in: Radiant's top barracks have collapsed.",
+		"text_simple": " this news just in radiants top barracks have collapsed ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle barracks have fallen.",
+		"text_simple": " radiants middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle barracks have fallen.",
+		"text_simple": " radiants middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "The storming of Radiant's base continues as their middle barracks fall.",
+		"text_simple": " the storming of radiants base continues as their middle barracks fall ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom barracks have fallen.",
+		"text_simple": " radiants bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom barracks have fallen.",
+		"text_simple": " radiants bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_rad_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_rad_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "You heard it here first: Radiant's bottom barracks just bit the dust.",
+		"text_simple": " you heard it here first radiants bottom barracks just bit the dust ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top barracks have fallen.",
+		"text_simple": " dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top barracks have fallen.",
+		"text_simple": " dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Bad news for some of you: Dire's top barracks have fallen.",
+		"text_simple": " bad news for some of you dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_top_04.mp3",
+		"voice_id": 10029,
+		"text": "This is probably going to spoil your day but Dire's top barracks have fallen.",
+		"text_simple": " this is probably going to spoil your day but dires top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle barracks have fallen.",
+		"text_simple": " dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle barracks have fallen.",
+		"text_simple": " dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Paving the way for future disaster, Dire's middle barracks have fallen.",
+		"text_simple": " paving the way for future disaster dires middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom barracks have fallen.",
+		"text_simple": " dires bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom barracks have fallen.",
+		"text_simple": " dires bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_dire_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_dire_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Astute observers like myself will note that Dire's bottom barracks have fallen.",
+		"text_simple": " astute observers like myself will note that dires bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadBarracksKilled IsSpectator IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_top_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top barracks have fallen.",
+		"text_simple": " the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_top_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top barracks have fallen.",
+		"text_simple": " the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_top_03.mp3",
+		"voice_id": 10029,
+		"text": "You'll be pleased to hear that the enemy's top barracks have fallen.",
+		"text_simple": " youll be pleased to hear that the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Calloo callay! The enemy's top barracks have fallen.",
+		"text_simple": " calloo callay the enemys top barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsTopLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle barracks have fallen.",
+		"text_simple": " the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle barracks have fallen.",
+		"text_simple": " the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Huzzah! The enemy's middle barracks have fallen.",
+		"text_simple": " huzzah the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Good news! The enemy's middle barracks have fallen.",
+		"text_simple": " good news the enemys middle barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsMidLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom barracks have fallen.",
+		"text_simple": " the enemys bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom barracks have fallen.",
+		"text_simple": " the enemys bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Oh glorious! The enemy's bottom barracks have fallen.",
+		"text_simple": " oh glorious the enemys bottom barracks have fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_rax_fall_enm_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_rax_fall_enm_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_rax_fall_enm_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "The critics rave! The enemy's bottom barracks are a flop! I mean, they've fallen.",
+		"text_simple": " the critics rave the enemys bottom barracks are a flop i mean theyve fallen ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyBarracksKilled IsBotLane IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom barracks was destroyed"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower has been denied.",
+		"text_simple": " your top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Your top tower has been denied.",
+		"text_simple": " your top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_top_03.mp3",
+		"voice_id": 10029,
+		"text": "For better or worse, your top tower has been denied.",
+		"text_simple": " for better or worse your top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower has been denied.",
+		"text_simple": " your middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Your middle tower has been denied.",
+		"text_simple": " your middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "Be advised: Your middle tower has been denied.",
+		"text_simple": " be advised your middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower has been denied.",
+		"text_simple": " your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Your bottom tower has been denied.",
+		"text_simple": " your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Oh, someone's got their finger on the button. Your bottom tower has been denied.",
+		"text_simple": " oh someones got their finger on the button your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_yr_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_yr_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_yr_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "Well, someone's doing their job. Your bottom tower has been denied.",
+		"text_simple": " well someones doing their job your bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "A friendly bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_top_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top tower has been denied.",
+		"text_simple": " the enemys top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_top_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's top tower has been denied.",
+		"text_simple": " the enemys top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Don't hate me for saying this, but the enemy's top tower has been denied.",
+		"text_simple": " dont hate me for saying this but the enemys top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle tower has been denied.",
+		"text_simple": " the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's middle tower has been denied.",
+		"text_simple": " the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "It's all over the news: The enemy's middle tower has been denied.",
+		"text_simple": " its all over the news the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "It's not my fault, but the enemy's middle tower has been denied.",
+		"text_simple": " its not my fault but the enemys middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom tower has been denied.",
+		"text_simple": " the enemys bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "The enemy's bottom tower has been denied.",
+		"text_simple": " the enemys bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "Oh dear oh dear oh dear, the enemy's bottom tower has been denied. And you were so very, very, very close.",
+		"text_simple": " oh dear oh dear oh dear the enemys bottom tower has been denied and you were so very very very close ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_enm_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_enm_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_enm_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "Oh dear, the enemy's bottom tower has been denied. And you were so close.",
+		"text_simple": " oh dear the enemys bottom tower has been denied and you were so close ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyTowerKilled IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "An enemy's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower has been denied.",
+		"text_simple": " radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's top tower has been denied.",
+		"text_simple": " radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_top_03.mp3",
+		"voice_id": 10029,
+		"text": "It looks as though--yes, it's been confirmed: Radiant's top tower has been denied.",
+		"text_simple": " it looks as thoughyes its been confirmed radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Wait a minute, just in, just in: It's been confirmed: Radiant's top tower has been denied.",
+		"text_simple": " wait a minute just in just in its been confirmed radiants top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower has been denied.",
+		"text_simple": " radiants middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's middle tower has been denied.",
+		"text_simple": " radiants middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "In the annals of denial, Radiant's middle tower has just made a name for itself.",
+		"text_simple": " in the annals of denial radiants middle tower has just made a name for itself ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "Denial isn't just a river in Egypt. It also describes Radiant's middle tower.",
+		"text_simple": " denial isnt just a river in egypt it also describes radiants middle tower ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower has been denied.",
+		"text_simple": " radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's bottom tower has been denied.",
+		"text_simple": " radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "I don't mind telling you that Radiant's bottom tower has been denied.",
+		"text_simple": " i dont mind telling you that radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_rad_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_rad_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_rad_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "Let me just tell you that Radiant's bottom tower has been denied.",
+		"text_simple": " let me just tell you that radiants bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Radiant's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_top_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_top_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower has been denied.",
+		"text_simple": " dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_top_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_top_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's top tower has been denied.",
+		"text_simple": " dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_top_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_top_03.mp3",
+		"voice_id": 10029,
+		"text": "Shout it to the atmosphere: Dire's top tower has been denied.",
+		"text_simple": " shout it to the atmosphere dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_top_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_top_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_top_04.mp3",
+		"voice_id": 10029,
+		"text": "Shout it from the highest hill: Dire's top tower has been denied.",
+		"text_simple": " shout it from the highest hill dires top tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsTopLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's top tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_mid_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_mid_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower has been denied.",
+		"text_simple": " dires middle tower has been denied ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_mid_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_mid_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's middle tower has been denied.",
+		"text_simple": " dires middle tower has been denied ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_mid_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_mid_03.mp3",
+		"voice_id": 10029,
+		"text": "With a bit of fancy footwork, Dire's middle tower has been denied.",
+		"text_simple": " with a bit of fancy footwork dires middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_mid_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_mid_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_mid_04.mp3",
+		"voice_id": 10029,
+		"text": "I can't believe what I'm seeing! Look at that ! Dire's middle tower has been denied.",
+		"text_simple": " i cant believe what im seeing look at that dires middle tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsMidLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's middle tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_bot_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_bot_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower has been denied.",
+		"text_simple": " dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_bot_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_bot_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's bottom tower has been denied.",
+		"text_simple": " dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_bot_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_bot_03.mp3",
+		"voice_id": 10029,
+		"text": "No one saw it coming, but, but Dire's bottom tower has been denied.",
+		"text_simple": " no one saw it coming but but dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_twr_deny_dire_bot_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_twr_deny_dire_bot_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_twr_deny_dire_bot_04.mp3",
+		"voice_id": 10029,
+		"text": "Odd's bodkins and button my pants: Dire's bottom tower has been denied.",
+		"text_simple": " odds bodkins and button my pants dires bottom tower has been denied ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadTowerKilled IsSpectator IsBotLane IsDeny IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Dire's bottom tower was denied"
+	},
+	{
+		"name": "announcer_fort_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's structures are fortified.",
+		"text_simple": " dires structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's structures are fortified.",
+		"text_simple": " dires structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_dire_03.mp3",
+		"voice_id": 10029,
+		"text": "Storm doors in place. Dire's structures are fortified.",
+		"text_simple": " storm doors in place dires structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_dire_04.mp3",
+		"voice_id": 10029,
+		"text": "Dire's structures are fortified against all comers.",
+		"text_simple": " dires structures are fortified against all comers ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_dire_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_dire_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_dire_05.mp3",
+		"voice_id": 10029,
+		"text": "Dire's structures are just magnificently fortified.",
+		"text_simple": " dires structures are just magnificently fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedBad"
+	},
+	{
+		"name": "announcer_fort_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's structures are fortified.",
+		"text_simple": " radiants structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's structures are fortified.",
+		"text_simple": " radiants structures are fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_rad_03.mp3",
+		"voice_id": 10029,
+		"text": "Whether accidentally or on purpose, Radiant's structures have been fortified.",
+		"text_simple": " whether accidentally or on purpose radiants structures have been fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_rad_04.mp3",
+		"voice_id": 10029,
+		"text": "Oh look, they found the button. Radiant's structures have been fortified.",
+		"text_simple": " oh look they found the button radiants structures have been fortified ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_fort_rad_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_fort_rad_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_fort_rad_05.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's structures are fortified. They must have seen dark clouds on the horizon.",
+		"text_simple": " radiants structures are fortified they must have seen dark clouds on the horizon ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit GlyphUsedGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "GlyphUsedGood"
+	},
+	{
+		"name": "announcer_cour_kill_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire's courier has been slain.",
+		"text_simple": " dires courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "Dire's courier has been slain. Please alert the society for the prevention of cruelty to couriers.",
+		"text_simple": " dires courier has been slain please alert the society for the prevention of cruelty to couriers ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_dire_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_dire_03.mp3",
+		"voice_id": 10029,
+		"text": "Sometimes the winds of war bear away even innocent souls, such as Dire's courier.",
+		"text_simple": " sometimes the winds of war bear away even innocent souls such as dires courier ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostBad"
+	},
+	{
+		"name": "announcer_cour_kill_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's courier has been slain.",
+		"text_simple": " radiants courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_kill_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "Radiant's courier has been slain.",
+		"text_simple": " radiants courier has been slain ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_kill_rad_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_rad_03.mp3",
+		"voice_id": 10029,
+		"text": "Oh my, Radiant's courier has been stricken. Let none rejoice. Except perhaps in secret.",
+		"text_simple": " oh my radiants courier has been stricken let none rejoice except perhaps in secret ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_cour_kill_rad_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_cour_kill_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_cour_kill_rad_04.mp3",
+		"voice_id": 10029,
+		"text": "Oh those dastardly Dire have slain Radiant's innocent courier.",
+		"text_simple": " oh those dastardly dire have slain radiants innocent courier ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit CourierLostGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "CourierLostGood"
+	},
+	{
+		"name": "announcer_mega_now_you_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_you_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_you_01.mp3",
+		"voice_id": 10029,
+		"text": "You now have megacreeps.",
+		"text_simple": " you now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_you_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_you_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_you_02.mp3",
+		"voice_id": 10029,
+		"text": "You now have megacreeps.",
+		"text_simple": " you now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_enm_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_enm_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_enm_01.mp3",
+		"voice_id": 10029,
+		"text": "The enemy now has megacreeps.",
+		"text_simple": " the enemy now has megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsEnemyMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsEnemyMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "The Dire now have megacreeps.",
+		"text_simple": " the dire now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsBadMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "The Dire: Now with megacreeps.",
+		"text_simple": " the dire now with megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsBadMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "The Radiant now have megacreeps.",
+		"text_simple": " the radiant now have megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGoodMegaCreeps"
+	},
+	{
+		"name": "announcer_mega_now_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_mega_now_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_mega_now_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "The Radiant: Now with megacreeps.",
+		"text_simple": " the radiant now with megacreeps ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodMegaCreeps IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGoodMegaCreeps"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "Roshan has fallen to the Dire!",
+		"text_simple": " roshan has fallen to the dire ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "Roshan has fallen to the Dire!",
+		"text_simple": " roshan has fallen to the dire ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_dire_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_dire_03.mp3",
+		"voice_id": 10029,
+		"text": "Can it be? Yes! Roshan has fallen to the Dire!",
+		"text_simple": " can it be yes roshan has fallen to the dire ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_dire_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_dire_04.mp3",
+		"voice_id": 10029,
+		"text": "The Dire have shown Roshan no mercy.",
+		"text_simple": " the dire have shown roshan no mercy ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_dire_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_dire_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_dire_05.mp3",
+		"voice_id": 10029,
+		"text": "The Dire have stolen Roshan's life, and with it Immortality.",
+		"text_simple": " the dire have stolen roshans life and with it immortality ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledBad IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Dire"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "Roshan has fallen to the Radiant!",
+		"text_simple": " roshan has fallen to the radiant ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "Roshan has fallen to the Radiant!",
+		"text_simple": " roshan has fallen to the radiant ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_rad_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_rad_03.mp3",
+		"voice_id": 10029,
+		"text": "The mighty Roshan has fallen to Radiant treachery.",
+		"text_simple": " the mighty roshan has fallen to radiant treachery ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_fallen_rad_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_fallen_rad_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_fallen_rad_04.mp3",
+		"voice_id": 10029,
+		"text": "Oh Radiant, Roshan has given his all for you. Use it wisely.",
+		"text_simple": " oh radiant roshan has given his all for you use it wisely ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRoshanKilledGood IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Roshan killed by The Radiant"
+	},
+	{
+		"name": "announcer_roshan_cheese",
+		"fullname": "announcer_dlc_stormspirit_announcer_roshan_cheese",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_roshan_cheese.mp3",
+		"voice_id": 10029,
+		"text": "And they said I was cheesy.",
+		"text_simple": " and they said i was cheesy ",
+		"criteria": "Followup_Generic Isannouncer_dlc_stormspirit IsRoshanCheese Chance_25% IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsRoshanCheese Followup (25% chance)"
+	},
+	{
+		"name": "announcer_victory_dire_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_victory_dire_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_victory_dire_01.mp3",
+		"voice_id": 10029,
+		"text": "Dire victory!",
+		"text_simple": " dire victory ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadVictory IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsBadVictory"
+	},
+	{
+		"name": "announcer_victory_dire_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_victory_dire_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_victory_dire_02.mp3",
+		"voice_id": 10029,
+		"text": "Let the wind carry word of Dire's great victory!",
+		"text_simple": " let the wind carry word of dires great victory ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsBadVictory IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsBadVictory"
+	},
+	{
+		"name": "announcer_victory_rad_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_victory_rad_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_victory_rad_01.mp3",
+		"voice_id": 10029,
+		"text": "Radiant victory!",
+		"text_simple": " radiant victory ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodVictory IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGoodVictory"
+	},
+	{
+		"name": "announcer_victory_rad_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_victory_rad_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_victory_rad_02.mp3",
+		"voice_id": 10029,
+		"text": "And the storm of battle ends in the calm of a Radiant victory!",
+		"text_simple": " and the storm of battle ends in the calm of a radiant victory ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsGoodVictory IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsGoodVictory"
+	},
+	{
+		"name": "announcer_type_all_pick",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_all_pick",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_all_pick.mp3",
+		"voice_id": 10029,
+		"text": "All Pick.",
+		"text_simple": " all pick ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAllPick IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsAllPick"
+	},
+	{
+		"name": "announcer_type_all_random",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_all_random",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_all_random.mp3",
+		"voice_id": 10029,
+		"text": "All Random.",
+		"text_simple": " all random ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsAllRandom IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsAllRandom"
+	},
+	{
+		"name": "announcer_type_capt_draft",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_capt_draft",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_capt_draft.mp3",
+		"voice_id": 10029,
+		"text": "Captain's Draft.",
+		"text_simple": " captains draft ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsCaptainsDraft IsDraftBegin IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsCaptainsDraft IsDraftBegin"
+	},
+	{
+		"name": "announcer_type_capt_mode",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_capt_mode",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_capt_mode.mp3",
+		"voice_id": 10029,
+		"text": "Captains Mode.",
+		"text_simple": " captains mode ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsCaptainsMode IsDraftBegin IsAnnouncerVoice_StormSpirit|Custom Isannouncer_dlc_stormspirit IsReverseCaptainsMode IsDraftBegin IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsCaptainsMode IsDraftBegin|IsReverseCaptainsMode IsDraftBegin"
+	},
+	{
+		"name": "announcer_type_random_draft",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_random_draft",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_random_draft.mp3",
+		"voice_id": 10029,
+		"text": "Random Draft.",
+		"text_simple": " random draft ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsRandomDraft IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsRandomDraft"
+	},
+	{
+		"name": "announcer_type_single_draft",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_single_draft",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_single_draft.mp3",
+		"voice_id": 10029,
+		"text": "Single Draft.",
+		"text_simple": " single draft ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsSingleDraft IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsSingleDraft"
+	},
+	{
+		"name": "announcer_type_death_match",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_death_match",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_death_match.mp3",
+		"voice_id": 10029,
+		"text": "Death Match.",
+		"text_simple": " death match ",
+		"criteria": "Custom Isannouncer_dlc_stormspirit IsDeathMatch IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "IsDeathMatch"
+	},
+	{
+		"name": "announcer_type_easy_mode",
+		"fullname": "announcer_dlc_stormspirit_announcer_type_easy_mode",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_type_easy_mode.mp3",
+		"voice_id": 10029,
+		"text": "Easy Mode.",
+		"text_simple": " easy mode ",
+		"pretty_criteria": "Unused"
+	},
+	{
+		"name": "announcer_ally_neg_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_01.mp3",
+		"voice_id": 10029,
+		"text": "Seems like a bit of a setback.",
+		"text_simple": " seems like a bit of a setback ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_02.mp3",
+		"voice_id": 10029,
+		"text": "Let your spirits not sag.",
+		"text_simple": " let your spirits not sag ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_03.mp3",
+		"voice_id": 10029,
+		"text": "I am sorry to say it.",
+		"text_simple": " i am sorry to say it ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_04.mp3",
+		"voice_id": 10029,
+		"text": "Looks like someone blew it.",
+		"text_simple": " looks like someone blew it ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_05.mp3",
+		"voice_id": 10029,
+		"text": "Is that whining I hear?",
+		"text_simple": " is that whining i hear ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_06",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_06",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_06.mp3",
+		"voice_id": 10029,
+		"text": "We all saw it coming.",
+		"text_simple": " we all saw it coming ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_07",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_07",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_07.mp3",
+		"voice_id": 10029,
+		"text": "Don't shoot the messenger.",
+		"text_simple": " dont shoot the messenger ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_08",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_08",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_08.mp3",
+		"voice_id": 10029,
+		"text": "The storm has spoken.",
+		"text_simple": " the storm has spoken ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_09",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_09",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_09.mp3",
+		"voice_id": 10029,
+		"text": "What a debacle.",
+		"text_simple": " what a debacle ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_10",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_10",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_10.mp3",
+		"voice_id": 10029,
+		"text": "Oh what a mess.",
+		"text_simple": " oh what a mess ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_11",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_11",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_11.mp3",
+		"voice_id": 10029,
+		"text": "Not my fault.",
+		"text_simple": " not my fault ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_neg_12",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_neg_12",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_neg_12.mp3",
+		"voice_id": 10029,
+		"text": "More's the pity.",
+		"text_simple": " mores the pity ",
+		"criteria": "Followup_Negative Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Negative)"
+	},
+	{
+		"name": "announcer_ally_pos_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_01.mp3",
+		"voice_id": 10029,
+		"text": "Couldn't happen to a nicer team.",
+		"text_simple": " couldnt happen to a nicer team ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_02.mp3",
+		"voice_id": 10029,
+		"text": "I knew you could do it.",
+		"text_simple": " i knew you could do it ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_03.mp3",
+		"voice_id": 10029,
+		"text": "The eye of the storm beams down on you.",
+		"text_simple": " the eye of the storm beams down on you ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_04.mp3",
+		"voice_id": 10029,
+		"text": "Isn't that splendid?",
+		"text_simple": " isnt that splendid ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_05.mp3",
+		"voice_id": 10029,
+		"text": "I thought you were going to blow it but you didn't.",
+		"text_simple": " i thought you were going to blow it but you didnt ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_06",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_06",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_06.mp3",
+		"voice_id": 10029,
+		"text": "You blustered through!",
+		"text_simple": " you blustered through ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_07",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_07",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_07.mp3",
+		"voice_id": 10029,
+		"text": "And not a single fig was given on that day.",
+		"text_simple": " and not a single fig was given on that day ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_08",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_08",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_08.mp3",
+		"voice_id": 10029,
+		"text": "Well isn't that nice?",
+		"text_simple": " well isnt that nice ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_09",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_09",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_09.mp3",
+		"voice_id": 10029,
+		"text": "Sunbeams all around.",
+		"text_simple": " sunbeams all around ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_ally_pos_10",
+		"fullname": "announcer_dlc_stormspirit_announcer_ally_pos_10",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_ally_pos_10.mp3",
+		"voice_id": 10029,
+		"text": "Beee-yooo-tiful.",
+		"text_simple": " beeeyoootiful ",
+		"criteria": "Followup_Positive Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Positive)"
+	},
+	{
+		"name": "announcer_event_neg_01",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_01",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_01.mp3",
+		"voice_id": 10029,
+		"text": "Always a problem.",
+		"text_simple": " always a problem ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_02",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_02",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_02.mp3",
+		"voice_id": 10029,
+		"text": "But all is not yet lost.",
+		"text_simple": " but all is not yet lost ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_03",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_03",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_03.mp3",
+		"voice_id": 10029,
+		"text": "Let not your spirits sag.",
+		"text_simple": " let not your spirits sag ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_04",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_04",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_04.mp3",
+		"voice_id": 10029,
+		"text": "Someone had better see to that before it gets worse.",
+		"text_simple": " someone had better see to that before it gets worse ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_05",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_05",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_05.mp3",
+		"voice_id": 10029,
+		"text": "Dark clouds gather.",
+		"text_simple": " dark clouds gather ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_06",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_06",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_06.mp3",
+		"voice_id": 10029,
+		"text": "Can anyone weather this storm?",
+		"text_simple": " can anyone weather this storm ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_07",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_07",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_07.mp3",
+		"voice_id": 10029,
+		"text": "Hallmarks of doom are everywhere.",
+		"text_simple": " hallmarks of doom are everywhere ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_08",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_08",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_08.mp3",
+		"voice_id": 10029,
+		"text": "No one should be under any illusions.",
+		"text_simple": " no one should be under any illusions ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_09",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_09",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_09.mp3",
+		"voice_id": 10029,
+		"text": "Harbor no false hopes.",
+		"text_simple": " harbor no false hopes ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_10",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_10",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_10.mp3",
+		"voice_id": 10029,
+		"text": "Don't make me come in there.",
+		"text_simple": " dont make me come in there ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_11",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_11",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_11.mp3",
+		"voice_id": 10029,
+		"text": "Oh where can this be heading?",
+		"text_simple": " oh where can this be heading ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_12",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_12",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_12.mp3",
+		"voice_id": 10029,
+		"text": "This is wild.",
+		"text_simple": " this is wild ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_13",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_13",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_13.mp3",
+		"voice_id": 10029,
+		"text": "Oh my, my heart is all aflutter.",
+		"text_simple": " oh my my heart is all aflutter ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_14",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_14",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_14.mp3",
+		"voice_id": 10029,
+		"text": "The time has come to defend or attack or something.",
+		"text_simple": " the time has come to defend or attack or something ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_15",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_15",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_15.mp3",
+		"voice_id": 10029,
+		"text": "In case you hadn't noticed.",
+		"text_simple": " in case you hadnt noticed ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_16",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_16",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_16.mp3",
+		"voice_id": 10029,
+		"text": "This wasn't in the forecast.",
+		"text_simple": " this wasnt in the forecast ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	},
+	{
+		"name": "announcer_event_neg_17",
+		"fullname": "announcer_dlc_stormspirit_announcer_event_neg_17",
+		"mp3": "/sounds/vo/announcer_dlc_stormspirit/announcer_event_neg_17.mp3",
+		"voice_id": 10029,
+		"text": "Gear up for heavy weather.",
+		"text_simple": " gear up for heavy weather ",
+		"criteria": "Followup_Negative_Ongoing Isannouncer_dlc_stormspirit IsAnnouncerVoice_StormSpirit",
+		"pretty_criteria": "Followup (Ongoing Negative)"
+	}
+]
