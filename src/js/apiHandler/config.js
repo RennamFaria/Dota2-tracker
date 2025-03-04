@@ -1,0 +1,1 @@
+export const HEROES_API = "https://api.opendota.com/api";
